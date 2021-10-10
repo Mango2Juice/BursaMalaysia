@@ -1,116 +1,1217 @@
-Ticker,Description,Change %,Change,Last,1-Month High,3-Month High,52 Week High,All Time High,Rating,Volume,Market Capitalization,Sector
-A,"Agilent Technologies, Inc.",0.43974797,0.67,153.03,179.365,179.57,179.57,179.57,Sell,1494301,46325648271.49990,Health Technology
-AACG,ATA Creativity Global,-4.48101266,-0.1062,2.2638,2.99,4.75,19.75,19.75,Strong Sell,20118,75131812,Commercial Services
-AAON,"AAON, Inc.",1.17769827,0.79,67.87,68.56,70.5745,81.25,81.25,Strong Buy,108227,3556641667.666220,Producer Manufacturing
-AAP,Advance Auto Parts Inc Advance Auto Parts Inc W/I,0.89298644,1.85,209.02,220.12,220.12,220.12,220.12,Buy,460722,13168415366.118700,Retail Trade
-AAPL,Apple Inc.,1.41584016,1.97,141.11,157.26,157.26,157.26,157.26,Sell,80860594,2332571716232.9400,Electronic Technology
-ABB,ABB Ltd,0.06071645,0.02,32.96,37.29,38.03,38.03,38.03,Sell,1247829,65872144366.38970,Producer Manufacturing
-ABCL,AbCellera Biologics Inc.,0.60864273,0.1,16.53,22.6337,22.6337,71.91,71.91,Sell,1672736,4606975353.312240,Health Technology
-ABM,ABM Industries Incorporated,1.2817774,0.6,47.41,48.83,50.71,55.48,55.48,Strong Buy,389289,3187902286.9696600,Commercial Services
-ABMD,"ABIOMED, Inc.",5.92602033,18.6,332.47,376.99,376.99,387.4,459.75,Sell,382603,15087566084.883900,Health Technology
-ABNB,"Airbnb, Inc.",0.14589666,0.24,164.74,176.96,176.96,219.94,219.94,Neutral,4340100,103562611163.59700,Consumer Services
-ABT,Abbott Laboratories,0.30295161,0.35,115.88,129.6992,129.6992,129.6992,129.6992,Sell,4238369,205434076149.4280,Health Technology
-ACA,"Arcosa, Inc.",3.0327375,1.51,51.3,51.92,56.73,68.46,68.46,Buy,328264,2482962393.85017,Producer Manufacturing
-ACAD,ACADIA Pharmaceuticals Inc.,0.7742704,0.13,16.92,17.99,24.5,57.46,58.72,Sell,748980,2718084446.544370,Health Technology
-ACCD,"Accolade, Inc.",2.1049962,0.83,40.26,49.13,54.6,65.25,65.25,Sell,466894,2660129023.37408,Technology Services
-ACIW,"ACI Worldwide, Inc.",0.29411765,0.09,30.69,33.97,37.36,43.2265,43.2265,Sell,440909,3605596919.0029400,Technology Services
-ACLS,"Axcelis Technologies, Inc.",0.94463972,0.43,45.95,50.46,52.8,52.8,320,Neutral,156733,1542759380.9292600,Electronic Technology
-ACMR,"ACM Research, Inc.",12.63157895,13.2,117.7,119.07,119.07,144.8065,144.8065,Strong Buy,559283,2281969185.8526300,Producer Manufacturing
-ACRS,"Aclaris Therapeutics, Inc.",-0.34965035,-0.06,17.1,19.97,19.97,30.375,33.88,Sell,666869,1046788560.6818200,Health Technology
-ACVA,ACV Auctions Inc.,0.6614552,0.11,16.74,21.3118,24.88,37.7699,37.7699,Sell,1569291,2594609799.2832200,Retail Trade
-ADBE,Adobe Inc.,1.47003527,8.21,566.7,668.87,673.88,673.88,673.88,Sell,2337803,269635848367.47500,Technology Services
-ADI,"Analog Devices, Inc.",0.67575794,1.11,165.37,178.84,178.84,178.84,178.84,Sell,2899064,88871665967.7235,Electronic Technology
-ADPT,Adaptive Biotechnologies Corporation,0.77232005,0.25,32.62,40,40,71.25,71.25,Sell,403597,4591781504.495520,Commercial Services
-ADSK,"Autodesk, Inc.",1.11750266,3.05,275.98,295.34,344.39,344.39,344.39,Sell,953716,60674320967.7233,Technology Services
-ADTN,"ADTRAN, Inc.",0.53792361,0.1,18.69,20.5295,24.76,24.76,47.7,Sell,192175,907620299.3770840,Electronic Technology
-ADUS,Addus HomeCare Corporation,-1.67467221,-1.29,75.74,90.295,96.06,129.005,129.005,Strong Sell,117091,1205538306.1435800,Health Services
-AEHL,Antelope Enterprise Holdings Limited,1.13207547,0.03,2.68,3.4699,4.95,7.7,242.4,Sell,658934,15830401.99245280,Producer Manufacturing
-AEHR,Aehr Test Systems,4.89296636,0.64,13.72,16.75,16.75,16.75,25.25,Buy,1770860,335903981.3853210,Electronic Technology
-AEIS,"Advanced Energy Industries, Inc.",0.12894151,0.11,85.42,91.87,108.37,125.55,125.55,Strong Sell,202688,3277827850.9724500,Electronic Technology
-AEM,Agnico Eagle Mines Limited,0.97888676,0.51,52.61,58.5,65.86,85.46,89.23,Sell,1816100,12855820999.324000,Non-Energy Minerals
-AEO,"American Eagle Outfitters, Inc.",-4.04040404,-1.04,24.7,28.75,37.54,38.99,38.99,Sell,15597097,4164339082.0707100,Retail Trade
-AEY,"ADDvantage Technologies Group, Inc.",2.5862069,0.06,2.38,2.66,2.82,4.24,39,Sell,20269,29777063.26724140,Distribution Services
-AEYE,"AudioEye, Inc.",0.82417582,0.09,11.01,13.18,17.07,44.37,75,Sell,66101,124815424.57417600,Technology Services
-AFIB,"Acutus Medical, Inc.",-0.24213075,-0.02,8.24,13.125,17.21,34.35,38.99,Sell,231539,285166579.10895900,Health Technology
-AFYA,Afya Limited,2.61892036,0.49,19.2,22.8,26.02,29.015,34.87,Sell,38329,1789494087.354360,Consumer Services
-AGCO,AGCO Corporation,0.50556916,0.64,127.23,137.76,144.78,158.615,158.615,Neutral,455591,9591329642.36962,Producer Manufacturing
-AGE,"AgeX Therapeutics, Inc.",1.94122113,0.0179,0.94,1.07,1.57,3.93,5.95,Sell,24165,35660905.69352570,Health Technology
-AGEN,Agenus Inc.,3.47349177,0.19,5.66,6.64,6.79,6.79,429,Neutral,5372044,1319428807.7660000,Health Technology
-AGI,Alamos Gold Inc.,1.63487738,0.12,7.46,7.93,8.62,10.21,21.004,Neutral,2443920,2931363692.353580,Non-Energy Minerals
-AGL,"agilon health, inc.",1.40077821,0.36,26.06,36.85,39.1,44.83,44.83,Sell,883002,10186400033.786000,Health Services
-AHPI,"Allied Healthcare Products, Inc.",-10.01517451,-0.66,5.93,9.45,16.41,16.41,45,Strong Sell,211573,23800274.56297420,Health Technology
-AIH,Aesthetic Medical International Holdings Group Ltd.,1.84501845,0.075,4.14,4.35,7.67,11.24,12.56,Neutral,17024,95925426,Health Services
-AIN,Albany International Corporation,0.89061716,0.71,80.43,81.23,89.07,93.43,93.43,Buy,79287,2621318673.6604400,Process Industries
-AIRG,"Airgain, Inc.",-0.64882401,-0.08,12.25,14.37,19.49,29.5,29.5,Sell,32628,123454448.86455800,Electronic Technology
-AIT,"Applied Industrial Technologies, Inc.",0.47367854,0.44,93.33,94.01,94.01,107.07,107.07,Buy,135756,3596214817.647110,Distribution Services
-AKAM,"Akamai Technologies, Inc.",0.60452418,0.62,103.18,113.94,120.675,124.91,345.5,Sell,1295943,16800783445.128500,Technology Services
-AKTS,"Akoustis Technologies, Inc.",-1.11111111,-0.1,8.9,10.75,10.75,19.15,19.15,Strong Sell,402039,457296370.5333330,Electronic Technology
-ALB,Albemarle Corporation,3.3362762,7.18,222.39,253.095,253.095,253.095,253.095,Buy,1049622,26008481789.04900,Process Industries
-ALEC,"Alector, Inc.",4.45999125,1.02,23.89,27.42,39.74,43.32,43.32,Sell,421978,1932113846.0581500,Health Technology
-ALG,"Alamo Group, Inc.",0.6442934,0.91,142.15,153.9,157.72,165.975,165.975,Sell,29973,1695536589.8467100,Producer Manufacturing
-ALGM,"Allegro MicroSystems, Inc.",0,0,30.22,36.85,36.85,36.85,36.85,Sell,460274,5731118472.000000,Electronic Technology
-ALGN,"Align Technology, Inc.",1.27732667,8.18,648.58,737.452,737.452,737.452,737.452,Sell,496506,51245308690.62520,Health Technology
-ALKS,Alkermes plc,1.17955439,0.36,30.88,32.535,32.535,32.535,98.5,Buy,638021,4981917179.355180,Health Technology
-ALLE,Allegion plc,-0.43758637,-0.57,129.69,148.33,148.695,148.695,148.695,Sell,952089,11632694417.318700,Producer Manufacturing
-ALLO,"Allogene Therapeutics, Inc.",0.20601566,0.05,24.32,27.86,27.86,44.92,55,Sell,410035,3457900983.4297500,Health Technology
-ALNY,"Alnylam Pharmaceuticals, Inc.",1.70751718,3.33,198.35,199.69,209.725,209.725,209.725,Strong Buy,394777,23573440700.01100,Health Technology
-ALOT,"AstroNova, Inc.",-0.83067093,-0.13,15.52,16.16,16.81,18.05,27.9576,Buy,7414,112584189.33162900,Electronic Technology
-ALRM,"Alarm.com Holdings, Inc.",0.05139406,0.04,77.87,85.32,94.45,108.67,108.67,Sell,161222,3885945503.4315800,Technology Services
-ALTO,"Alto Ingredients, Inc.",-0.97087379,-0.05,5.1,5.27,5.73,11.44,4672.5,Neutral,1157340,371318054.91262100,Process Industries
-ALTR,Altair Engineering Inc.,2.78740612,1.93,71.17,76.438,76.91,76.91,76.91,Neutral,180877,5584155510.985700,Technology Services
-AMAT,"Applied Materials, Inc.",2.29233227,2.87,128.07,144.63,145.25,146,146,Sell,7330355,115638053740.7110,Producer Manufacturing
-AMBA,"Ambarella, Inc.",1.14224283,1.7,150.53,169.28,169.28,169.28,169.28,Buy,477687,5518938609.201040,Electronic Technology
-AMD,"Advanced Micro Devices, Inc.",1.46501894,1.47,101.81,110.58,122.49,122.49,122.49,Sell,31455249,123491983518.5590,Electronic Technology
-AMED,Amedisys Inc,-0.48964745,-0.7,142.26,187.43,272.855,325.12,325.12,Sell,455163,4642222564.321210,Health Services
-AMEH,"Apollo Medical Holdings, Inc.",1.00122372,0.9,90.79,101.59,114.55,114.55,114.55,Buy,292673,5024327238.634670,Health Services
-AMGN,Amgen Inc.,0.19863791,0.42,211.86,224.94,250.39,276.69,276.69,Sell,2482170,120305201522.25600,Health Technology
-AMH,American Homes 4 Rent,-0.28630921,-0.11,38.31,42.5,42.61,42.61,42.61,Sell,1209330,12403640030,Finance
-AMKR,"Amkor Technology, Inc.",0.92667204,0.23,25.05,29.5,29.5,29.5,65.3125,Neutral,579954,6120809715.278000,Electronic Technology
-AMN,AMN Healthcare Services Inc AMN Healthcare Services Inc,0.11881524,0.14,117.97,119.45,119.45,119.45,119.45,Buy,306910,5575564052.220830,Commercial Services
-AMPH,"Amphastar Pharmaceuticals, Inc.",-1.36125654,-0.26,18.84,19.85,21.63,21.63,25.43,Sell,223618,904916673.6502620,Health Technology
-AMRC,"Ameresco, Inc.",1.69111303,0.98,58.93,75.883,75.883,75.883,75.883,Sell,165755,3028324807.3541000,Industrial Services
-AMRS,"Amyris, Inc.",-0.94117647,-0.12,12.63,14.935,16.72,23.42,509.595225,Sell,2190223,3830889680.2870600,Process Industries
-AMSC,American Superconductor Corporation,-0.42342978,-0.06,14.11,14.98,16.39,31.78,751.25,Neutral,237516,399709954.0310520,Producer Manufacturing
-AMST,Amesite Inc.,-1.73410405,-0.03,1.7,2.2,2.48,9.06,9.06,Strong Sell,67890,37358820.69364160,Technology Services
-AMSWA,"American Software, Inc.",1.10882957,0.27,24.62,25.72,25.98,28.45,28.45,Strong Buy,46240,819556924.8008210,Technology Services
-AMT,American Tower Corporation (REIT),-0.25638125,-0.68,264.55,303.72,303.72,303.72,303.72,Sell,1649207,120717131041,Finance
-AMWL,American Well Corporation,-0.23894863,-0.02,8.35,11.4,12.32,43.75,43.75,Sell,1500798,2028115174.1039400,Technology Services
-ANET,"Arista Networks, Inc.",2.68532526,9.23,352.95,367.62,384,384,384,Neutral,343618,27077134311.439100,Electronic Technology
-ANGI,Angi Inc.,-4.43388757,-0.56,12.07,14.92,14.92,19.17,23.95,Sell,1052413,6085404288.463180,Technology Services
-ANGO,"AngioDynamics, Inc.",5,1.31,27.51,28.38,30.25,30.25,31.28999,Strong Buy,326653,1063273431.15,Health Technology
-ANIK,Anika Therapeutics Inc.,0.74626866,0.3,40.5,44.06,44.06,48.37,75.715,Sell,37431,584132644.4776120,Health Technology
-ANSS,"ANSYS, Inc.",1.9015493,6.37,341.36,377.26,377.26,413.19,413.19,Sell,275434,29784521178.145300,Technology Services
-ANY,Sphere 3D Corp.,3.50584307,0.21,6.2,7.87,11.98,11.98,2292,Buy,30783936,364617476.7946580,Technology Services
-AOS,A.O. Smith Corporation,4.07062285,2.49,63.66,73.13,73.81,73.81,73.81,Sell,1839860,10133292681.267300,Producer Manufacturing
-AOUT,"American Outdoor Brands, Inc.",1.42450142,0.35,24.92,27.25,35.98,36.6199,36.6199,Sell,132536,351474838.35897400,Consumer Durables
-APD,"Air Products and Chemicals, Inc.",0.40235947,1.03,257.02,272.03,293.66,327.89,327.89,Sell,970916,56895144731.07010,Process Industries
-APDN,"Applied DNA Sciences, Inc.",0.97465887,0.05,5.18,6,8.1,13.64,8520.00047164,Sell,74275,38778104.02339180,Health Technology
-APOG,"Apogee Enterprises, Inc.",-1.20096077,-0.45,37.02,43.45,43.89,43.89,61.048,Sell,134664,937889269.104884,Producer Manufacturing
-APP,Applovin Corporation,2.60155815,1.87,73.75,80.75,80.75,90.03,90.03,Neutral,932502,27460799876.930300,Technology Services
-APPF,"AppFolio, Inc.",3.00922181,3.72,127.34,127.91,145.24,186.59,186.59,Buy,110775,4670597280.478560,Technology Services
-APPN,Appian Corporation,1.91553196,1.66,88.32,115.39,136.17,260,260,Sell,364353,6278003378.204480,Technology Services
-APTV,Aptiv PLC,0.27908157,0.44,158.1,159.44,170.47,170.47,170.47,Buy,1977264,42767247550.84230,Producer Manufacturing
-APYX,Apyx Medical Corporation,3.04645849,0.4,13.53,14.5,14.5,14.5,14.5,Buy,65239,464386813.1675550,Health Technology
-AQST,"Aquestive Therapeutics, Inc.",0.73891626,0.03,4.09,4.6308,4.8,8.06,20.6961,Sell,234732,159045631.8768470,Health Technology
-ARCB,ArcBest Corporation,3.56044476,3.01,87.55,88,88,93.96,93.96,Buy,492174,2237565568.530870,Transportation
-ARCE,Arco Platform Limited,-0.14925373,-0.03,20.07,25.55,30.32,44.66,59.49,Strong Sell,96475,1143141565.2134300,Technology Services
-ARMP,"Armata Pharmaceuticals, Inc.",-1.13636364,-0.04,3.48,3.99,4.15,10.48,1960000,Sell,13664,86783634.95454550,Health Technology
-ARRY,"Array Technologies, Inc.",0.47619048,0.08,16.88,20.43,20.43,54.78,54.78,Sell,1310442,2263493640.0095200,Electronic Technology
-ARWR,"Arrowhead Pharmaceuticals, Inc.",-2.69000162,-1.66,60.05,68.84,71,93.66,2924.91,Strong Sell,509992,6260768137.171450,Health Technology
-ASAN,"Asana, Inc.",3.31497246,3.31,103.16,124.85,124.85,124.85,124.85,Buy,1474456,18971214174.341100,Technology Services
-ASGN,ASGN Incorporated,1.0277226,1.19,116.98,118.4,118.4,118.4,118.4,Buy,191589,6188242227.312380,Commercial Services
-ASML,ASML Holding N.V. - New York Registry Shares,2.79546666,19.93,732.87,895.93,895.93,895.93,895.93,Sell,1201462,291594071660.283,Producer Manufacturing
-ASPN,"Aspen Aerogels, Inc.",3.03353984,1.42,48.23,51.57,51.57,51.57,51.57,Buy,379077,1593945579.576590,Process Industries
-ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V.",1.74868049,3.28,190.85,192.16,192.16,193.85,229.445,Strong Buy,30627,5637268602.673610,Transportation
-ASTE,"Astec Industries, Inc.",0.16519824,0.09,54.57,59.67,64.09,80,80,Sell,76968,1241896315.2268700,Producer Manufacturing
-ASUR,Asure Software Inc,0.22650057,0.02,8.85,9.15,9.75,9.75,173.3342,Buy,17367,169641687.0441680,Technology Services
-ATEC,"Alphatec Holdings, Inc.",1.26368997,0.15,12.02,15.2482,16.47,19.36,108.0432,Sell,804536,1203408490.8407800,Health Technology
-ATEN,"A10 Networks, Inc.",2.20197418,0.29,13.46,15.02,15.02,15.02,16.5,Neutral,586609,1033847888.0258200,Technology Services
-ATHX,"Athersys, Inc.",-0.7518797,-0.01,1.32,1.7278,1.81,3.03,10,Sell,989041,298656736.96240600,Health Technology
-ATNI,"ATN International, Inc.",1.36956987,0.64,47.37,48.14,48.14,52.65,88.78,Strong Buy,33587,751481075.8805910,Communications
-ATNX,"Athenex, Inc.",-1.75438596,-0.05,2.8,3.68,4.26,15,21.11,Sell,1144048,306061659.22807000,Health Technology
-ATR,"AptarGroup, Inc.",-0.51516886,-0.63,121.66,134.72,141.28,158.9721,158.9721,Sell,249236,8024633216.686890,Process Industries
-ATRC,"AtriCure, Inc.",3.16917125,2.13,69.34,77.66,85.5,85.5,85.5,Sell,196834,3181489046.3749400,Health Technology
-ATRI,Atrion Corporation,-0.15627713,-1.08,690,783.84,783.84,783.84,948.0275,Neutral,3343,1242434054.6101800,Health Technology
-ATRS,"Antares Pharma, Inc.",-1.95530726,-0.07,3.51,3.97,4.51,5.07,31.875,Strong Sell,521011,596586389.7318440,Health Technology
-ATVI,"Activision Blizzard, Inc",-0.49235553,-0.38,76.8,81.42,93.86,104.53,104.53,Sell,9771203,59728008048.51000,Consumer Durables
+﻿Ticker,Description,Last,1-Month High,3-Month High,52 Week High,All Time High,Rating,Volume,Market Capitalization,Sector
+A,"Agilent Technologies, Inc.",152.47,179.36,179.57,179.57,179.57,Sell,904116,46156123768,Health Technology
+AACG,ATA Creativity Global,2.3,2.91,4.75,19.75,19.75,Sell,6796,72912731,Commercial Services
+AAON,"AAON, Inc.",68.99,70.05,70.5745,81.25,81.25,Buy,84411,3615333643,Producer Manufacturing
+AAP,Advance Auto Parts Inc.,214.15,220.12,220.12,220.12,220.12,Buy,351489,13491608914,Retail Trade
+AAPL,Apple Inc.,142.9,156.11,157.26,157.26,157.26,Neutral,58772253,2.36216E+12,Electronic Technology
+AATC,Autoscope Technologies Corporation,6.9,8.29,8.4399,11.58,19.7,Sell,35831,37033584,Technology Services
+ABB,ABB Ltd,33.05,37.045,38.03,38.03,38.03,Sell,1119200,66228207519,Producer Manufacturing
+ABCL,AbCellera Biologics Inc.,15.37,22.6337,22.6337,71.91,71.91,Sell,1797165,4283678726,Health Technology
+ABM,ABM Industries Incorporated,46.31,47.99,50.71,55.48,55.48,Neutral,116420,3113937038,Commercial Services
+ABMD,"ABIOMED, Inc.",337.13,374.56,376.99,387.4,459.75,Sell,114233,15299038431,Health Technology
+ABNB,"Airbnb, Inc.",169.97,176.96,176.96,219.94,219.94,Buy,2265114,1.0685E+11,Consumer Services
+ABT,Abbott Laboratories,118.39,129.6992,129.6992,129.6992,129.6992,Sell,7193308,2.09884E+11,Health Technology
+ACA,"Arcosa, Inc.",51.81,52.91,56.58,68.46,68.46,Buy,109208,2507646836,Producer Manufacturing
+ACAD,ACADIA Pharmaceuticals Inc.,16.93,17.99,24.5,57.46,58.72,Sell,535300,2719690780,Health Technology
+ACCD,"Accolade, Inc.",38.23,49.13,54.515,65.25,65.25,Strong Sell,1642578,2548571746,Technology Services
+ACIW,"ACI Worldwide, Inc.",30.15,32.73,37.1281,43.2265,43.2265,Strong Sell,496454,3542155242,Technology Services
+ACLS,"Axcelis Technologies, Inc.",47.18,50.43,52.8,52.8,320,Buy,162441,1584056308,Electronic Technology
+ACMR,"ACM Research, Inc.",113.18,119.12,119.12,144.8065,144.8065,Buy,193966,2194335371,Producer Manufacturing
+ACRS,"Aclaris Therapeutics, Inc.",17.95,19.97,19.97,30.375,33.88,Buy,268503,1098821967,Health Technology
+ACVA,ACV Auctions Inc.,18.96,21.3118,24.88,37.7699,37.7699,Neutral,754103,2938697844,Retail Trade
+ADBE,Adobe Inc.,576.86,668.87,673.88,673.88,673.88,Sell,2051019,2.7447E+11,Technology Services
+ADI,"Analog Devices, Inc.",168.62,178.84,178.84,178.84,178.84,Neutral,3145920,90618252299,Electronic Technology
+ADPT,Adaptive Biotechnologies Corporation,32.71,39.79,40,71.25,71.25,Sell,543799,4604450452,Commercial Services
+ADSK,"Autodesk, Inc.",278.94,295.34,344.39,344.39,344.39,Sell,797433,61325080415,Technology Services
+ADTN,"ADTRAN, Inc.",18.95,20.45,24.76,24.76,47.7,Sell,167684,920246400,Electronic Technology
+ADUS,Addus HomeCare Corporation,75.13,89.63,96.06,129.005,129.005,Sell,65478,1195829034,Health Services
+AEHL,Antelope Enterprise Holdings Limited,2.6,3.4699,4.95,7.7,242.4,Sell,180677,15357851,Producer Manufacturing
+AEHR,Aehr Test Systems,19.44,19.94,19.94,19.94,25.25,Buy,18748174,475945599,Electronic Technology
+AEIS,"Advanced Energy Industries, Inc.",87.46,91.87,108.37,125.55,125.55,Sell,131683,3356108980,Electronic Technology
+AEM,Agnico Eagle Mines Limited,53.98,57.33,65.86,85.46,89.23,Neutral,1372492,13190595552,Non-Energy Minerals
+AEO,"American Eagle Outfitters, Inc.",24.89,28.75,37.54,38.99,38.99,Sell,3877669,4196372394,Retail Trade
+AEY,"ADDvantage Technologies Group, Inc.",2.28,2.53,2.82,4.24,39,Sell,35660,28525927,Distribution Services
+AEYE,"AudioEye, Inc.",10.42,13.1,17.07,44.37,75,Strong Sell,37788,118126859,Technology Services
+AFIB,"Acutus Medical, Inc.",7.97,11.91,17.21,34.35,38.99,Sell,151244,275822513,Health Technology
+AFYA,Afya Limited,19.2,22.8,26.02,29.015,34.87,Sell,80030,1789494246,Consumer Services
+AG,First Majestic Silver Corp.,11.34,12.94,14.55,24.01,26.88,Sell,3876946,2908495115,Non-Energy Minerals
+AGCO,AGCO Corporation,127.45,132.34,144.78,158.615,158.615,Neutral,301305,9607914556,Producer Manufacturing
+AGE,"AgeX Therapeutics, Inc.",0.9037,1.06,1.56,3.06,5.95,Strong Sell,35501,34283788,Health Technology
+AGEN,Agenus Inc.,5.72,6.64,6.79,6.79,429,Buy,3445284,1333415688,Health Technology
+AGFY,Agrify Corporation,19.7,26.33,35.94,35.94,35.94,Sell,688648,405001156,Producer Manufacturing
+AGI,Alamos Gold Inc.,7.41,7.93,8.62,10.21,21.004,Neutral,4319808,2911716326,Non-Energy Minerals
+AGL,"agilon health, inc.",25.33,33.3,39.1,44.83,44.83,Sell,1841478,9901055427,Health Services
+AHPI,"Allied Healthcare Products, Inc.",6,8.5601,16.41,16.41,45,Sell,92349,24081222,Health Technology
+AI,"C3.ai, Inc.",44.24,52.01,59.1799,183.9,183.9,Sell,1450129,4450920779,Technology Services
+AIH,Aesthetic Medical International Holdings Group Ltd.,4.38,4.4,7.29,11.24,12.56,Buy,4393,103358762,Health Services
+AIHS,Senmiao Technology Limited,0.65,0.9125,0.9125,2.32,8.91,Buy,743967,36016454,Finance
+AIN,Albany International Corporation,81.19,81.99,88.49,93.43,93.43,Buy,38573,2646088104,Process Industries
+AIRG,"Airgain, Inc.",11.99,14.0399,19.49,29.5,29.5,Sell,58464,120834189,Electronic Technology
+AIT,"Applied Industrial Technologies, Inc.",96.06,96.24,96.24,107.07,107.07,Buy,66890,3701407788,Distribution Services
+AKAM,"Akamai Technologies, Inc.",102.19,113.87,120.675,124.91,345.5,Strong Sell,1082185,16639582692,Technology Services
+AKTS,"Akoustis Technologies, Inc.",7.95,10.75,10.75,19.15,19.15,Sell,554306,408483827,Electronic Technology
+ALB,Albemarle Corporation,215.06,253.095,253.095,253.095,253.095,Sell,1260889,25151238165,Process Industries
+ALEC,"Alector, Inc.",23.4,27.05,39.22,43.32,43.32,Sell,217162,1892484788,Health Technology
+ALG,"Alamo Group, Inc.",143.63,153.9,157.72,165.975,165.975,Sell,13583,1713189724,Producer Manufacturing
+ALGM,"Allegro MicroSystems, Inc.",30.29,36.85,36.85,36.85,36.85,Sell,177137,5744394034,Electronic Technology
+ALGN,"Align Technology, Inc.",643.56,737.452,737.452,737.452,737.452,Sell,258325,50848668596,Health Technology
+ALKS,Alkermes plc,31.7,33,33,33,98.5,Buy,1186498,5114209068,Health Technology
+ALLE,Allegion plc,131.45,148.33,148.695,148.695,148.695,Sell,655134,11790559875,Producer Manufacturing
+ALLO,"Allogene Therapeutics, Inc.",13.13,27.86,27.86,44.92,55,Strong Sell,24501626,1866868398,Health Technology
+ALNY,"Alnylam Pharmaceuticals, Inc.",203.7,206.84,209.725,209.725,209.725,Buy,313556,24209274986,Health Technology
+ALOT,"AstroNova, Inc.",15.5,16.16,16.81,18.05,27.9576,Buy,9204,112439109,Electronic Technology
+ALRM,"Alarm.com Holdings, Inc.",78.09,83.99,94.45,108.67,108.67,Strong Sell,105569,3896923886,Technology Services
+ALTO,"Alto Ingredients, Inc.",5.4,5.45,5.67,11.44,4672.5,Buy,1396381,393160293,Process Industries
+ALTR,Altair Engineering Inc.,70.69,76.438,76.91,76.91,76.91,Sell,104216,5546494013,Technology Services
+AMAT,"Applied Materials, Inc.",126.22,144.63,145.25,146,146,Sell,6300458,1.13968E+11,Producer Manufacturing
+AMBA,"Ambarella, Inc.",154.14,169.28,169.28,169.28,169.28,Buy,519639,5651293320,Electronic Technology
+AMD,"Advanced Micro Devices, Inc.",105.06,108.44,122.49,122.49,122.49,Buy,30623046,1.27434E+11,Electronic Technology
+AMED,Amedisys Inc,146.4,187.43,271.32,325.12,325.12,Sell,537928,4777318453,Health Services
+AMEH,"Apollo Medical Holdings, Inc.",74.13,101.59,114.55,114.55,114.55,Sell,991761,4102361129,Health Services
+AMGN,Amgen Inc.,208.95,220.65,250.39,276.69,276.69,Sell,2350037,1.18653E+11,Health Technology
+AMH,American Homes 4 Rent,38.2,41.79,42.61,42.61,42.61,Sell,1556319,12332615336,Finance
+AMKR,"Amkor Technology, Inc.",25.16,29.5,29.5,29.5,65.3125,Sell,499972,6147687561,Electronic Technology
+AMN,AMN Healthcare Services Inc AMN Healthcare Services Inc,119.83,121.83,121.83,121.83,121.83,Buy,226026,5663472410,Commercial Services
+AMPH,"Amphastar Pharmaceuticals, Inc.",19.46,19.69,21.63,21.63,25.43,Buy,78626,934696247,Health Technology
+AMRC,"Ameresco, Inc.",58.42,72.735,75.883,75.883,75.883,Sell,208899,3002116534,Industrial Services
+AMRS,"Amyris, Inc.",11.97,14.935,16.72,23.42,509.595225,Sell,1818765,3630700751,Process Industries
+AMSC,American Superconductor Corporation,15.14,15.76,16.27,31.78,751.25,Buy,177631,428887938,Producer Manufacturing
+AMST,Amesite Inc.,1.66,2.04,2.46,9.06,9.06,Sell,51223,36479789,Technology Services
+AMSWA,"American Software, Inc.",26.35,26.39,26.39,28.45,28.45,Strong Buy,136305,877145611,Technology Services
+AMT,American Tower Corporation (REIT),262.08,303.71,303.72,303.72,303.72,Sell,1064294,1.19283E+11,Finance
+AMWL,American Well Corporation,8.51,11.4,12.24,43.75,43.75,Sell,836908,2066977346,Technology Services
+AN,"AutoNation, Inc.",118.12,129.6464,129.6464,129.6464,129.6464,Buy,606288,8456854010,Retail Trade
+ANET,"Arista Networks, Inc.",371.92,375.96,384,384,384,Strong Buy,587210,28532449698,Electronic Technology
+ANGI,Angi Inc.,12.16,14.92,14.92,19.17,23.95,Sell,1140170,6130779996,Technology Services
+ANGO,"AngioDynamics, Inc.",25.94,27.965,30.25,30.25,31.28999,Neutral,155685,1002592242,Health Technology
+ANIK,Anika Therapeutics Inc.,40.97,44.06,44.06,48.37,75.715,Buy,45193,590911474,Health Technology
+ANSS,"ANSYS, Inc.",345.67,377.26,377.26,413.19,413.19,Strong Sell,176750,30160581602,Technology Services
+ANY,Sphere 3D Corp.,6.69,7.87,11.98,11.98,2292,Buy,13912693,393434038,Technology Services
+AOS,A.O. Smith Corporation,64.23,72.415,73.81,73.81,73.81,Sell,1223613,10224025171,Producer Manufacturing
+AOUT,"American Outdoor Brands, Inc.",24.53,27.25,35.98,36.6199,36.6199,Strong Sell,58428,345974243,Consumer Durables
+APD,"Air Products and Chemicals, Inc.",265.43,272.03,293.66,327.89,327.89,Buy,1162290,58756818633,Process Industries
+APDN,"Applied DNA Sciences, Inc.",4.68,5.99,8.1,13.64,8520.000472,Strong Sell,125904,35035041,Health Technology
+APOG,"Apogee Enterprises, Inc.",39.15,42.2499,43.89,43.89,61.048,Neutral,65725,991852110,Producer Manufacturing
+APP,Applovin Corporation,86.34,87.06,87.06,90.03,90.03,Buy,1880490,32148684087,Technology Services
+APPF,"AppFolio, Inc.",128.62,132.03,145.24,186.59,186.59,Neutral,127841,4717545045,Technology Services
+APPN,Appian Corporation,91.21,108.68,136.17,260,260,Sell,228419,6483431365,Technology Services
+APPS,"Digital Turbine, Inc.",78.05,80.24,80.24,102.5599,102.5599,Buy,3267017,7949674947,Technology Services
+APTV,Aptiv PLC,165.12,166.91,170.47,170.47,170.47,Buy,1471758,44666208367,Producer Manufacturing
+APYX,Apyx Medical Corporation,13.75,14.5,14.5,14.5,14.5,Buy,31956,471937814,Health Technology
+AQST,"Aquestive Therapeutics, Inc.",3.69,4.62,4.8,8.06,20.6961,Sell,324441,143491051,Health Technology
+AQUA,Evoqua Water Technologies Corp.,37.51,40.51,40.51,40.51,40.51,Sell,460345,4509937403,Industrial Services
+ARCB,ArcBest Corporation,87.59,91.33,91.33,93.96,93.96,Buy,250918,2238587753,Transportation
+ARCE,Arco Platform Limited,20.35,24.21,30.32,44.66,59.49,Sell,158301,1159089728,Technology Services
+ARMP,"Armata Pharmaceuticals, Inc.",3.45,3.99,4.15,10.48,1960000,Strong Sell,604,86035501,Health Technology
+ARRY,"Array Technologies, Inc.",18.39,19.25,20.43,54.78,54.78,Buy,2611360,2465974440,Electronic Technology
+ARWR,"Arrowhead Pharmaceuticals, Inc.",60.33,66.68,71,93.66,2924.91,Sell,708788,6289961012,Health Technology
+ASAN,"Asana, Inc.",105.45,124.85,124.85,124.85,124.85,Buy,1783745,19392346911,Technology Services
+ASGN,ASGN Incorporated,123.35,125.35,125.35,125.35,125.35,Buy,219673,6525215107,Commercial Services
+ASML,ASML Holding N.V. - New York Registry Shares,730.27,895.93,895.93,895.93,895.93,Sell,1039660,3.0087E+11,Producer Manufacturing
+ASPN,"Aspen Aerogels, Inc.",47.68,51.57,51.57,51.57,51.57,Buy,101057,1575768681,Process Industries
+ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V.",192.67,194.98,194.98,194.98,229.445,Strong Buy,21865,5776939733,Transportation
+ASTE,"Astec Industries, Inc.",52.72,59.54,64.09,80,80,Strong Sell,70322,1199794316,Producer Manufacturing
+ASUR,Asure Software Inc,9.07,9.2,9.75,9.75,173.3342,Strong Buy,24125,173858764,Technology Services
+ATEC,"Alphatec Holdings, Inc.",11.93,14.69,16.47,19.36,108.0432,Strong Sell,822828,1194397986,Health Technology
+ATEN,"A10 Networks, Inc.",13.35,15.02,15.02,15.02,16.5,Sell,243057,1025398932,Technology Services
+ATHX,"Athersys, Inc.",1.3,1.65,1.81,3.03,10,Sell,505664,294131615,Health Technology
+ATNI,"ATN International, Inc.",46.59,48.14,48.14,52.65,88.78,Neutral,16148,739107110,Communications
+ATNX,"Athenex, Inc.",2.8,3.65,4.25,15,21.11,Sell,901978,306061665,Health Technology
+ATOS,"Atossa Therapeutics, Inc.",3.18,4.11,7.15,9.8,2231.776354,Sell,2260558,402661977,Health Technology
+ATR,"AptarGroup, Inc.",124.51,131.12,141.21,158.9721,158.9721,Neutral,217866,8212617881,Process Industries
+ATRC,"AtriCure, Inc.",70.88,77.66,85.5,85.5,85.5,Sell,89154,3252147937,Health Technology
+ATRI,Atrion Corporation,684.69,783.84,783.84,783.84,948.0275,Sell,3064,1232872688,Health Technology
+ATRS,"Antares Pharma, Inc.",3.43,3.87,4.51,5.07,31.875,Sell,594347,582989003,Health Technology
+ATVI,"Activision Blizzard, Inc",77.61,80.84,93.86,104.53,104.53,Sell,8885204,60357952120,Consumer Durables
+AU,AngloGold Ashanti Limited,17.77,18.28,20.8172,28.48,62.2,Neutral,2775794,7324663536,Non-Energy Minerals
+AUPH,Aurinia Pharmaceuticals Inc,19.33,24.18,24.18,24.18,24.18,Neutral,1812099,2481893415,Health Technology
+AUVI,"Applied UV, Inc.",5.2,8.05,9.8,35.78,35.78,Sell,95743,48960006,Health Technology
+AUY,Yamana Gold Inc.,4.1,4.35,4.73,6.3,20.59,Neutral,11775869,3962379398,Non-Energy Minerals
+AVD,American Vanguard Corporation,15.14,15.61,17.3221,22.49,37.50999,Sell,83937,467495967,Process Industries
+AVGO,Broadcom Inc.,492.85,510.7,510.7,510.7,510.7,Buy,1027984,2.02865E+11,Electronic Technology
+AVGR,"Avinger, Inc.",0.748,0.929899,1.065,2.67,10044,Sell,896590,71324044,Health Technology
+AVID,"Avid Technology, Inc.",29.27,30.79,40.48,40.48,68.35001,Buy,233120,1334837143,Technology Services
+AVIR,"Atea Pharmaceuticals, Inc.",40.06,46.9099,46.9099,94.1737,94.1737,Buy,2525999,3316044306,Health Technology
+AVLR,"Avalara, Inc.",165.27,190.68,191.67,191.67,191.67,Sell,584608,14265481307,Technology Services
+AVNS,"Avanos Medical, Inc.",32.05,33.26,38.82,53.61,72.96,Neutral,202994,1542344716,Health Technology
+AVNW,"Aviat Networks, Inc.",33.72,36.63,40.43,43.76,1164.4656,Sell,159268,377229393,Electronic Technology
+AVO,"Mission Produce, Inc.",18.5,21.03,21.5,22.93,22.93,Strong Sell,76420,1306275414,Process Industries
+AVTX,"Avalo Therapeutics, Inc.",2.18,2.8264,3.29,4.5,7.6499,Sell,831426,236549533,Health Technology
+AVY,Avery Dennison Corporation,206.77,227.505,228.88,228.88,228.88,Sell,397201,17137717355,Process Industries
+AWCMY,Alumina Limited,6.3,6.615,6.615,6.615,8.97,Buy,1418,4581323199,Non-Energy Minerals
+AWH,Aspira Women's Health Inc.,3.2,3.92,5.23,10.54,394.375,Sell,233844,358614507,Health Technology
+AWI,Armstrong World Industries Inc,97.49,102.27,113.83,113.83,113.83,Sell,144438,4640824984,Producer Manufacturing
+AWR,American States Water Company,88.3,94.49,94.96,94.96,96.64,Buy,128417,3259419538,Utilities
+AXDX,"Accelerate Diagnostics, Inc.",5.63,6.19,8.048,15.6,31.8562,Sell,372505,346237662,Health Technology
+AXGN,"Axogen, Inc.",14.29,17.99,21.85,23.94,56.8499,Strong Sell,91501,591563937,Health Technology
+AXNX,"Axonics, Inc.",63.62,79.81,79.81,79.81,79.81,Sell,363418,2935077479,Health Technology
+AXR,AMREP Corporation,15.2434,16.91,17.08,17.08,149.9899,Buy,2325,111831220,Finance
+AXSM,"Axsome Therapeutics, Inc.",32.2,36.22,65.4399,87.24,109.94,Buy,566673,1213358806,Health Technology
+AXTI,AXT Inc,8.06,9.38,10.54,15.84,49.5625,Sell,138279,342603332,Electronic Technology
+AYI,"Acuity Brands, Inc.",202.83,204,204,204,280.89,Strong Buy,563510,7242680050,Producer Manufacturing
+AYX,"Alteryx, Inc.",72.34,75.67,84.9,154.83,185.75,Sell,292875,4866291296,Technology Services
+AZEK,The AZEK Company Inc.,37.43,40.75,43.39,51.3199,51.3199,Sell,572946,5795747668,Producer Manufacturing
+AZN,AstraZeneca PLC,60.61,61.295,61.295,61.295,64.94,Strong Buy,3113399,1.87468E+11,Health Technology
+AZO,"AutoZone, Inc.",1681.37,1738.78,1738.78,1738.78,1738.78,Buy,125756,35540799778,Retail Trade
+AZPN,"Aspen Technology, Inc.",141.55,143.72,150.68,162.56,162.56,Strong Buy,922214,9494733848,Technology Services
+AZZ,AZZ Inc.,54.94,55.8899,57.85,57.85,67.98,Buy,63889,1377432724,Producer Manufacturing
+BAND,Bandwidth Inc.,78.92,110.52,136.75,198.605,198.605,Strong Sell,338184,1981719745,Technology Services
+BAOS,Baosheng Media Group Holdings Limited,1.46,2.32,5.87,10.2,10.2,Strong Sell,97088,42720746,Commercial Services
+BASE,"Couchbase, Inc.",31.97,42.96,52.26,52.26,52.26,Sell,371074,1385671364,Technology Services
+BAX,Baxter International Inc.,80.2,84.17,85.68,88.32,95.19,Sell,2641235,40092800348,Health Technology
+BB,BlackBerry Limited,9.39,11.125,12.0121,28.77,148.13,Sell,4695863,5324230209,Technology Services
+BBIG,"Vinco Ventures, Inc.",5.01,11.7,12.49,12.49,12.49,Sell,18266302,536177164,Producer Manufacturing
+BBL,BHP Group PlcSponsored,52.52,58.28,67.65,68.045,81.170995,Neutral,1758165,1.36305E+11,Non-Energy Minerals
+BBSI,"Barrett Business Services, Inc.",81.69,82,82,82,102.2,Buy,62855,617429795,Commercial Services
+BCC,"Boise Cascade, L.L.C.",55.26,57.61,59.6199,78.35,78.35,Sell,243482,2173420314,Non-Energy Minerals
+BCEI,"Bonanza Creek Energy, Inc.",50.65,52.1,52.1,52.1,52.1,Strong Buy,667065,1562496148,Energy Minerals
+BCOV,Brightcove Inc.,12.11,12.55,14,25.26,25.5,Buy,294729,494238437,Technology Services
+BCPC,Balchem Corporation,152.89,153.7052,153.7052,153.7052,153.7052,Buy,61252,4949131352,Process Industries
+BCRX,"BioCryst Pharmaceuticals, Inc.",14.46,16.12,18.48,18.48,37.25,Sell,2348037,2586459033,Health Technology
+BDSI,"BioDelivery Sciences International, Inc.",3.96,4.4617,4.4617,4.99,18.48,Strong Buy,299347,390446300,Health Technology
+BDSX,"Biodesix, Inc.",7.72,10.22,12.99,31.99,31.99,Sell,15477,208213337,Health Services
+BDX,"Becton, Dickinson and Company",238.58,263.74,264,267.37,286.72,Strong Sell,1562484,68517834994,Health Technology
+BE,Bloom Energy Corporation,19.15,21.11,24.2327,44.95,44.95,Neutral,1690824,3324176975,Producer Manufacturing
+BEEM,Beam Global,25.95,31.21,35.076,75.9,75.9,Sell,93393,231775042,Utilities
+BFAM,Bright Horizons Family Solutions Inc.,156.8,157.75,157.75,182.5,182.5,Buy,176130,9495904701,Commercial Services
+BFRA,Biofrontera AG American Depositary Shares,5.4,5.75,6.85,9.87,55,Sell,3539,155963080.5,Health Technology
+BGNE,"BeiGene, Ltd.",363.24,426.56,426.56,426.56,426.56,Buy,164616,33124640674,Health Technology
+BHP,BHP Group Limited,55.06,61.68,80.5,82.07,98.016309,Sell,2723024,1.36456E+11,Non-Energy Minerals
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.,141.68,151.51,151.51,151.51,151.51,Buy,266109,9266045767,Health Technology
+BIG,"Big Lots, Inc.",47.3,50.1,63.1,73.23,73.23,Neutral,1668643,1539913379,Retail Trade
+BIGC,"BigCommerce Holdings, Inc. - Series 1",50.68,59.555,71.6287,109.15,162.5,Sell,554158,3603858333,Technology Services
+BIIB,Biogen Inc.,285.83,322.49,358.77,468.55,468.55,Sell,629562,42598223869,Health Technology
+BILI,Bilibili Inc.,70.96,86.158,116.18,157.66,157.66,Neutral,2535673,26547630444,Technology Services
+BILL,"Bill.com Holdings, Inc.",274.33,299.31,301.99,301.99,301.99,Buy,899327,27212072937,Technology Services
+BIMI,BIMI International Medical Inc.,0.61,0.89,1.2551,4.09,262.5075,Sell,243358,20257437,Retail Trade
+BIO,"Bio-Rad Laboratories, Inc.",722.43,822.09,832.7,832.7,832.7,Sell,62488,21512895962,Health Technology
+BIOC,"Biocept, Inc.",3.91,4.2,4.44,8.38,9027.920702,Neutral,1281745,57566766,Health Services
+BKE,"Buckle, Inc. (The)",41.52,44.78,48.22,50.7861,57.67999,Sell,276431,2067006061,Retail Trade
+BKNG,Booking Holdings Inc. Common Stock,2474.37,2540,2540,2540,2540,Buy,164370,1.01597E+11,Consumer Services
+BLCT,BlueCity Holdings Limited,2.98,3.79,7.65,20.46,35.89,Sell,36534,109917533,Technology Services
+BLD,TopBuild Corp.,210.64,231.93,231.93,235.5,235.5,Sell,123396,6937402956,Producer Manufacturing
+BLDP,"Ballard Power Systems, Inc.",13.67,16.195,17.38,42.28,144.9375,Sell,2257010,4068276825,Producer Manufacturing
+BLDR,"Builders FirstSource, Inc.",55.09,55.975,55.975,55.975,55.975,Buy,1568893,11415112719,Producer Manufacturing
+BLFS,"BioLife Solutions, Inc.",38.38,53.97,60.669,60.669,1050.001,Strong Sell,179042,1580382749,Health Technology
+BLI,"Berkeley Lights, Inc.",18.09,37.22,51.2825,113.5299,113.5299,Sell,949926,1213849748,Technology Services
+BLKB,"Blackbaud, Inc.",73.47,75.41,76.19,80,120.35,Buy,138949,3591442435,Technology Services
+BLNK,Blink Charging Co.,27.09,32.69,37.46,64.5,3750,Sell,723245,1142007859,Consumer Services
+BMI,"Badger Meter, Inc.",105.16,108.2,108.25,111.77,111.77,Buy,47961,3068190049,Producer Manufacturing
+BMRN,BioMarin Pharmaceutical Inc.,77.83,81.1711,85.28,92.565,151.75,Sell,1156373,14270305887,Health Technology
+BNR,Burning Rock Biotech Limited,16.23,20.95,28.6,39.75,39.75,Sell,84798,1700610660,Health Services
+BNTX,BioNTech SE,245.95,374.85,464,464,464,Sell,1916118,59647044342,Health Technology
+BOOM,DMC Global Inc.,39.82,42.87,57.7561,70,76.68,Buy,194239,745632396,Producer Manufacturing
+BOOT,"Boot Barn Holdings, Inc.",95.17,99.64,99.64,99.64,99.64,Buy,186540,2810420574,Retail Trade
+BOX,"Box, Inc.",25.48,25.8,26.48,27.4071,29.79,Buy,1201805,3861409251,Technology Services
+BOXL,Boxlight Corporation,2.15,2.57,2.72,3.8,17.4,Sell,1316628,128692954,Electronic Technology
+BPMC,Blueprint Medicines Corporation,100.09,110.08,110.08,125.61,125.61,Buy,229068,5862674631,Health Technology
+BPT,BP Prudhoe Bay Royalty Trust,3.89,4.48,4.83,6.49,131.49001,Neutral,103843,83246001,Miscellaneous
+BQ,Boqii Holding Limited,2.27,2.91,4.36,12.84,12.84,Strong Sell,219288,204429649,Retail Trade
+BRC,Brady Corporation,50.8,52.12,56.39,61.76,61.76,Sell,61649,2644997253,Producer Manufacturing
+BRKR,Bruker Corporation,77.16,92.35,92.35,92.35,92.35,Sell,331788,11652704083,Health Technology
+BRKS,"Brooks Automation, Inc.",99.48,110.4,110.4,110.4,110.4,Neutral,418080,7391038954,Electronic Technology
+BRQS,"Borqs Technologies, Inc.",0.5454,0.86,0.94,3.35,13,Sell,1228520,79841459,Technology Services
+BSM,"Black Stone Minerals, L.P.",12.53,12.75,12.75,12.75,19.86,Buy,223376,2614296610,Energy Minerals
+BSQR,BSQUARE Corporation,2.23,2.965,4.71,11.83,226,Sell,219207,45331256,Technology Services
+BSX,Boston Scientific Corporation,43.16,45.95,46.285,46.285,46.62,Sell,4163627,61453480637,Health Technology
+BSY,"Bentley Systems, Incorporated",57.4,71.92,71.92,71.92,71.92,Sell,718746,16167863358,Technology Services
+BTBT,"Bit Digital, Inc.",11.35,12.42,20.74,33,33,Buy,10569343,624145199,Commercial Services
+BTG,B2Gold Corp,3.65,3.88,4.26,7.14,7.55,Neutral,7661401,3848220097,Non-Energy Minerals
+BTRS,BTRS Holdings Inc. - Class 1,10.19,11.48,13.125,19.76,19.76,Sell,331067,1612462352,Technology Services
+BTX,"Brooklyn ImmunoTherapeutics, Inc.",8.32,13.63,13.63,80.67,1150,Strong Sell,717256,430390375,Health Technology
+BURL,"Burlington Stores, Inc.",277.45,314.71,357.34,357.34,357.34,Sell,594477,18512707700,Retail Trade
+BVN,Buenaventura Mining Company Inc.,7.7,7.815,9.19,13.44,57.2,Buy,1159665,1746152601,Non-Energy Minerals
+BWEN,"Broadwind, Inc.",2.56,3.2,4.53,12.89,290,Sell,385745,49625756,Producer Manufacturing
+BYND,"Beyond Meat, Inc.",100.58,116.271,141.27,221,239.71,Strong Sell,2624089,6362132489,Consumer Non-Durables
+BZ,KANZHUN LIMITED - American Depository Shares,32.83,39.97,40.32,44.96,44.96,Strong Sell,233207,13426781368,Technology Services
+BZUN,Baozun Inc.,19.35,23.78,34.29,57,67.41,Neutral,750637,1454878135,Retail Trade
+CAJ,"Canon, Inc.",24.08,24.98,24.98,25.94,60.16,Neutral,238991,25356478782,Electronic Technology
+CALM,"Cal-Maine Foods, Inc.",34.7,37.43,38.89,43.235,63.25,Strong Sell,300337,1695349294,Consumer Non-Durables
+CAN,Canaan Inc.,6.28,9.74,10.7,39.1,39.1,Sell,3909431,1075669370,Electronic Technology
+CARG,"CarGurus, Inc.",34.69,35.43,35.43,36.54,57.25,Buy,1573199,4116940201,Technology Services
+CBAT,"CBAK Energy Technology, Inc.",2.22,3.0999,4.39,11.4,68.9,Sell,878044,196272836,Producer Manufacturing
+CBRL,"Cracker Barrel Old Country Store, Inc.",140.23,149.875,149.875,178.82,185,Strong Sell,172184,3297068280,Consumer Services
+CCCC,"C4 Therapeutics, Inc.",42.21,51.21,51.21,51.21,51.21,Sell,161332,2045254506,Health Technology
+CCF,Chase Corporation,101.53,116.63,119,123.13,131.7,Sell,5631,959382170,Process Industries
+CCRN,"Cross Country Healthcare, Inc.",22.83,23.16,23.16,23.16,39.159,Strong Buy,673752,867623864,Commercial Services
+CCXI,"ChemoCentryx, Inc.",38.41,40.9,40.9,70.29,70.29,Strong Buy,145617969,2684993849,Health Technology
+CDAY,Ceridian HCM Holding Inc.,118.9,120.25,120.25,120.25,120.25,Buy,693686,17818561128,Technology Services
+CDE,"Coeur Mining, Inc.",6.2,7.27,8.5448,12.6,360,Sell,3461170,1593559833,Non-Energy Minerals
+CDMO,"Avid Bioservices, Inc.",22.53,22.66,28.36,28.36,581.700437,Buy,374946,1382023678,Health Technology
+CDNA,"CareDx, Inc.",62.62,71.32,89.1899,99.83,99.83,Sell,454627,3295512887,Health Technology
+CDNS,"Cadence Design Systems, Inc.",150.12,168.61,168.61,168.61,168.61,Sell,581331,41550212065,Technology Services
+CDW,CDW Corporation,176.88,202.1196,203.82,203.82,203.82,Sell,558708,24320199076,Technology Services
+CDXC,ChromaDex Corporation,6.18,7.89,10.54,23.66,23.66,Sell,122991,421454516,Process Industries
+CDXS,"Codexis, Inc.",32.24,32.42,32.42,32.42,32.42,Buy,1235806,2084017302,Process Industries
+CDZI,"Cadiz, Inc.",6.9,11.51,14.69,14.69,656.25,Sell,267984,284909459,Utilities
+CECE,CECO Environmental Corp.,7.13,7.48,7.72,9.47,21.875,Sell,31233,255049246,Producer Manufacturing
+CEMI,"Chembio Diagnostics, Inc.",2.38,2.94,7.34,8.75,374,Sell,435600,68122274,Health Technology
+CERN,Cerner Corporation,71.07,76.19,82,84.2,84.2,Sell,1909621,21007283812,Technology Services
+CFLT,"Confluent, Inc.",64.59,74.25,74.25,74.25,74.25,Neutral,603534,16819883249,Technology Services
+CGA,"China Green Agriculture, Inc.",8.56,11.42,11.5,17.73,1234.01475,Sell,14093,72654107,Process Industries
+CGEM,"Cullinan Oncology, Inc.",23.82,30.325,30.325,59.85,59.85,Sell,62917,1037150886,Health Technology
+CHCT,Community Healthcare Trust Incorporated,45.05,48.935,50.76,52.54,52.54,Sell,52148,1112920358,Finance
+CHE,Chemed Corp,416.12,481.8,500,560,560,Sell,121627,6546173709,Health Services
+CHGG,"Chegg, Inc.",63.67,80.91,90.5,115.21,115.21,Strong Sell,3062019,9211634969,Commercial Services
+CHRW,"C.H. Robinson Worldwide, Inc.",90.66,91.76,95.6,106.29,106.75,Buy,740182,11940987394,Transportation
+CHT,"Chunghwa Telecom Co., Ltd.",39.54,40.25,42.87,42.87,42.87,Sell,88764,30905716439,Communications
+CHWY,"Chewy, Inc.",62.6,77.9,97.74,120,120,Sell,4843603,26151981436,Retail Trade
+CHX,ChampionX Corporation,25.18,25.25,25.31,30.48,46.11,Strong Buy,1270023,5081379081,Process Industries
+CIGI,Colliers International Group Inc. - Subordinate Voting Shares,133.07,138.4,143.38,143.38,143.38,Buy,39241,5852950560,Finance
+CL,Colgate-Palmolive Company,75.59,78.215,84.96,86.41,86.41,Sell,3327953,63761181527,Consumer Non-Durables
+CLAR,Clarus Corporation,27.2,28.125,32.36,32.36,143.368389,Buy,148880,919361458,Consumer Durables
+CLB,Core Laboratories N.V.,30.29,30.43,38.16,49.8699,221,Buy,507075,1403371155,Industrial Services
+CLLS,Cellectis S.A.,9.11,15.24,15.84,34.71,50,Strong Sell,2182086,429791248.8,Health Technology
+CLNE,Clean Energy Fuels Corp.,8.67,9.39,9.39,19.79,24.75,Strong Buy,4504272,1933341886,Utilities
+CLPT,ClearPoint Neuro Inc.,17.05,19.8099,22.8,31.29,200,Sell,115846,381353993,Health Technology
+CLRO,"ClearOne, Inc.",2.19,2.75,3.28,4.28,24.375,Strong Sell,64921,41127722,Electronic Technology
+CLSD,"Clearside Biomedical, Inc.",5.1,7.34,7.73,7.73,25.08,Sell,322745,303345774,Health Technology
+CLVR,Clever Leaves Holdings Inc.,7.16,9.31,12.4,19.4602,19.4602,Sell,51039,187172287,Health Technology
+CLXT,"Calyxt, Inc.",3.11,4.21,4.9413,12.43,31.89,Sell,89070,115912794,Commercial Services
+CMCL,Caledonia Mining Corporation Plc,12.47,12.91,13.05,20,481.25,Buy,25933,151121727,Non-Energy Minerals
+CMCO,Columbus McKinnon Corporation,50.67,51.31,51.31,57.06,57.06,Strong Buy,255349,1438967719,Producer Manufacturing
+CMG,"Chipotle Mexican Grill, Inc.",1817.61,1958.545,1958.545,1958.545,1958.545,Sell,160496,51065512080,Consumer Services
+CNET,ZW Data Action Technologies Inc.,1.24,1.45,1.85,6.19,17.5,Sell,3585285,43812518,Commercial Services
+CNEY,CN Energy Group Inc.,5.93,6.44,6.88,8.8,8.8,Buy,3681,96362497,Producer Manufacturing
+CNMD,CONMED Corporation,138.24,138.86,140.1,146.95,146.95,Strong Buy,216048,4031478266,Health Technology
+CNTG,Centogene N.V.,10.5,11.09,11.75,14.79,28.7109,Neutral,21533,235491291,Commercial Services
+CNXC,Concentrix Corporation,182.26,185.198,185.198,185.198,185.198,Buy,231341,9535780283,Commercial Services
+COHR,"Coherent, Inc.",252.04,256.29,261.8,270.99,329,Buy,94387,6183855519,Electronic Technology
+COMP,"Compass, Inc.",11.35,15.53,17.7,22.1099,22.1099,Sell,2835289,5168618316,Technology Services
+CORT,Corcept Therapeutics Incorporated,20.34,21.41,22.14,31.18,31.18,Neutral,365994,2357947789,Health Technology
+COUP,Coupa Software Incorporated,223.94,260.86,271.09,377.0423,377.0423,Sell,578931,16584867895,Technology Services
+CP,Canadian Pacific Railway Limited,69.21,72.1,75.245,83.07,83.07,Buy,3749774,46158029335,Transportation
+CPHI,"China Pharma Holdings, Inc.",0.5559,0.68,0.97,1.63,40.884375,Sell,303087,24225876,Health Technology
+CPNG,"Coupang, Inc.",28.1,31.5899,46,69,69,Sell,6162565,48769945247,Retail Trade
+CPOP,"Pop Culture Group Co., Ltd",2.93,4.02,18.47,78,78,Neutral,132552,70466506,Commercial Services
+CPRI,Capri Holdings Limited,49.71,57.22,61.25,61.25,101.04,Sell,1032785,7556638932,Retail Trade
+CPRT,"Copart, Inc.",140.4,152.75,152.75,152.75,152.75,Sell,480805,33288910107,Commercial Services
+CPSH,CPS Technologies Corp.,4.88,6.11,7.72,30,30,Strong Sell,64448,69894375,Producer Manufacturing
+CPSI,"Computer Programs and Systems, Inc.",36.06,37.27,37.27,37.27,79.06,Buy,77566,528222848,Technology Services
+CRAI,"CRA International,Inc.",107.22,108.7003,108.7003,108.7003,108.7003,Buy,43435,791474528,Commercial Services
+CRCT,"Cricut, Inc.",27.11,36.6063,39.195,47.36,47.36,Sell,225224,6024706712,Distribution Services
+CRL,"Charles River Laboratories International, Inc.",409.16,460.21,460.21,460.21,460.21,Sell,228794,20620281921,Commercial Services
+CRM,Salesforce.com Inc,272.48,286.36,286.36,286.36,286.36,Buy,2683286,2.66758E+11,Technology Services
+CRNC,Cerence Inc.,86.01,109.835,125.73,139,139,Sell,527643,3268938511,Technology Services
+CRSR,"Corsair Gaming, Inc.",25.68,29.97,32.0299,51.37,51.37,Sell,997076,2408955931,Technology Services
+CRVL,CorVel Corp.,170.99,195,195,195,195,Neutral,22426,3045961026,Finance
+CRWS,"Crown Crafts, Inc.",7.3999,7.67,7.97,8.4,22.625,Buy,1216,74242512,Consumer Durables
+CSCO,"Cisco Systems, Inc.",55.08,59.6,60.27,60.27,82,Sell,9255682,2.32313E+11,Technology Services
+CSCW,Color Star Technology Co. Ltd.,0.509,1.25,1.25,2.67,102,Sell,2280914,74332602,Technology Services
+CSGP,"CoStar Group, Inc.",86.88,90.845,90.845,95.276,95.276,Neutral,742926,34313704057,Technology Services
+CSGS,"CSG Systems International, Inc.",51.05,51.22,51.22,51.22,74.5,Buy,46488,1671508316,Technology Services
+CSII,"Cardiovascular Systems, Inc.",32.4,36.89,43.18,48.28,108.6,Strong Sell,145090,1314832043,Health Technology
+CSL,Carlisle Companies Incorporated,204.84,209.11,215.41,215.41,215.41,Buy,141751,10677407489,Producer Manufacturing
+CSLT,"Castlight Health, Inc.",1.7,1.85,2.44,2.71,41.95,Sell,266352,272428187,Technology Services
+CSWI,"CSW Industrials, Inc.",136.23,137.23,137.5585,143.78,143.78,Strong Buy,17165,2143470064,Process Industries
+CSX,CSX Corporation,32.71,32.85,34.33,34.956632,34.956632,Strong Buy,9871586,73744565163,Transportation
+CTAS,Cintas Corporation,402.8,409.8,409.8,409.8,409.8,Strong Buy,317769,41652589399,Consumer Services
+CTK,CooTek (Cayman) Inc.,1.13,1.719,2.14,7.2,13.2962,Sell,169946,75939939,Technology Services
+CTLT,"Catalent, Inc.",130.34,142.64,142.64,142.64,142.64,Neutral,438559,22269907764,Health Technology
+CTRA,Coterra Energy Inc.,22.27,23.64,23.64,23.64,81,Buy,9058503,18120301763,Energy Minerals
+CTRM,Castor Maritime Inc.,2.3,2.88,2.88,19.5,189.989,Sell,1891336,217603190,Transportation
+CTSH,Cognizant Technology Solutions Corporation,75.49,78.29,78.365,82.73,85.1,Neutral,2191516,39677329087,Technology Services
+CTXS,"Citrix Systems, Inc.",98.32,115,116.75,146.9372,173.56,Strong Sell,2542131,12214497925,Technology Services
+CUE,"Cue Biopharma, Inc.",13.15,15.78,15.78,17.23,31.69,Buy,102087,414334695,Health Technology
+CVNA,Carvana Co.,282.43,345.98,376.83,376.83,376.83,Sell,749361,48742642344,Retail Trade
+CVR,Chicago Rivet & Machine Co.,26.1,27.84,29.0122,33.6,49.5,Sell,982,25216047,Producer Manufacturing
+CVV,CVD Equipment Corporation,4.71,4.7965,6.3699,7.83,19.75999,Buy,6900,31482963,Electronic Technology
+CVX,Chevron Corporation,108.05,108.43,108.43,113.11,135.1,Strong Buy,10586720,2.08959E+11,Energy Minerals
+CWCO,Consolidated Water Co. Ltd.,11.87,12.21,12.95,15.37,37.49001,Buy,61949,180550996,Utilities
+CXDO,"Crexendo, Inc.",6,6.3,7.2,8.38,12.7808,Buy,28899,129351871,Technology Services
+CYBE,CyberOptics Corporation,34.65,42.02,48.52,48.52,50.375,Sell,41324,253477965,Electronic Technology
+DADA,Dada Nexus Limited,20.57,26.8,27.07,61.27,61.27,Neutral,616652,4905634346,Technology Services
+DAO,"Youdao, Inc.",13.21,15.07,23.45,42.17,47.7,Buy,230387,1664056386,Technology Services
+DARE,"Dare Bioscience, Inc.",1.58,1.78,1.86,3.85,108.7,Sell,696866,111424732,Health Technology
+DASH,"DoorDash, Inc.",204.42,227.4,227.4,256.09,256.09,Neutral,892149,69080992935,Technology Services
+DAVA,Endava plc,153.56,153.75,153.75,153.75,153.75,Strong Buy,272658,8544668856,Technology Services
+DBI,Designer Brands Inc.,13.72,15.6418,16.48,20.48,47.548,Sell,1038791,1001558635,Retail Trade
+DBX,"Dropbox, Inc.",28.51,32.425,33,33,43.5,Sell,1469158,10991082859,Technology Services
+DCPH,"Deciphera Pharmaceuticals, Inc.",32.32,35.87,35.87,68.4,71.11,Sell,536640,1875898306,Health Technology
+DCT,"Duck Creek Technologies, Inc.",44.54,50.9,50.9,59.4,59.4,Sell,326450,5866467123,Technology Services
+DD,"DuPont de Nemours, Inc.",70.42,71.555,80.5,87.27,109.686095,Neutral,1928257,36833651973,Process Industries
+DDD,3D Systems Corporation,26.6,32.6,40.4,56.5,97.28,Sell,1210179,3331265270,Producer Manufacturing
+DDOG,"Datadog, Inc.",140.32,150.67,150.67,150.67,150.67,Neutral,1360859,43501434412,Technology Services
+DECK,Deckers Outdoor Corporation,359.84,451.49,451.49,451.49,451.49,Sell,309891,9954176987,Consumer Non-Durables
+DENN,Denny's Corporation,15.795,17.36,17.36,20.02,23.88,Strong Sell,467118,1014038957,Consumer Services
+DFH,"Dream Finders Homes, Inc.",16.05,21.64,24.9,36.6,36.6,Sell,131867,1484969671,Technology Services
+DHI,"D.R. Horton, Inc.",83.41,91.69,99.6503,106.89,106.89,Sell,2120105,29876125412,Consumer Durables
+DHX,"DHI Group, Inc.",4.78,5.01,5.01,5.01,18.75,Buy,53959,240146088,Technology Services
+DIBS,"1stdibs.com, Inc.",13.99,17.2,27.49,35.46,35.46,Buy,123061,529051728,Retail Trade
+DIDI,DiDi Global Inc.,8.17,9.1979,13.42,18.01,18.01,Buy,13100383,39405883227,Technology Services
+DIOD,Diodes Incorporated,87.95,96.9236,98.88,98.88,98.88,Sell,128626,3954538432,Electronic Technology
+DLB,Dolby Laboratories,88.83,96.515,104.25,104.74,104.74,Strong Sell,229363,9006249708,Technology Services
+DLTH,Duluth Holdings Inc.,14.19,15.12,19.49,20.78,38.19,Sell,98129,469070356,Retail Trade
+DLTR,"Dollar Tree, Inc.",98.85,101.43,106.64,120.37,120.37,Buy,1064760,22232539044,Retail Trade
+DMLP,"Dorchester Minerals, L.P.",20.62,20.8,20.8,20.8,36.49001,Buy,67897,730046464,Energy Minerals
+DMTK,"DermTech, Inc.",32.24,36.8,39.45,84.49,84.49,Sell,216420,954637354,Health Technology
+DOCU,"DocuSign, Inc.",263.03,285.62,314.76,314.76,314.76,Sell,2037107,51742816180,Technology Services
+DOGZ,Dogness (International) Corporation,3.19,3.34,3.34,4.85,6.4,Buy,1170114,101451363,Consumer Non-Durables
+DOMO,"Domo, Inc.",80.89,85.71,98.35,98.35,98.35,Sell,179181,2601346035,Technology Services
+DORM,"Dorman Products, Inc.",97.32,99.59,107.49,113.13,113.13,Buy,51564,3097623190,Consumer Durables
+DOX,Amdocs Limited,77.83,78.85,79.67,82.38,96,Strong Buy,300688,9853667643,Technology Services
+DOYU,DouYu International Holdings Limited,3.49,4,5.49,20.54,20.54,Neutral,2526626,1132190153,Technology Services
+DQ,DAQO New Energy Corp.,56,66.24,90.48,130.33,130.33,Sell,847668,4090636502,Process Industries
+DRD,DRDGOLD Limited,8.46,9.6099,10.98,13.69,117.5,Sell,269829,702283632.9,Non-Energy Minerals
+DRE,Duke Realty Corporation,50.4,53.03,53.725,53.725,53.725,Buy,973766,19257961194,Finance
+DSGX,The Descartes Systems Group Inc.,80.85,87.46,87.46,87.46,91.60937,Buy,79921,6841976688,Technology Services
+DSP,Viant Technology Inc.,12.82,14.13,23.16,69.16,69.16,Sell,169986,772470620,Technology Services
+DSPG,"DSP Group, Inc.",21.82,22,22,22,66.018473,Buy,119253,527547544,Electronic Technology
+DT,"Dynatrace, Inc.",71.24,74.34,74.34,74.34,74.34,Buy,1343133,20252558713,Technology Services
+DUOL,"Duolingo, Inc.",166.52,204.995,204.995,204.995,204.995,Buy,276174,6230906632,Technology Services
+DV,"DoubleVerify Holdings, Inc.",34.53,38.23,40.71,48.42,48.42,Neutral,430663,5450601615,Technology Services
+DXCM,"DexCom, Inc.",529.1,579,579,579,579,Sell,322259,51189841351,Health Technology
+DXLG,"Destination XL Group, Inc.",6.04,7.08,7.42,7.42,25.25,Neutral,248297,383838537,Retail Trade
+DZSI,DZS Inc.,11.96,14.4,20.02,23.48,23.48,Sell,93935,325290635,Electronic Technology
+EA,Electronic Arts Inc.,139.99,146.93,147.76,150.3,151.2581,Buy,2163164,39838610213,Consumer Durables
+EAR,"Eargo, Inc.",6.55,23.14,37.585,76.75,76.75,Strong Sell,1195054,257171911,Health Technology
+EBAY,eBay Inc.,75.05,75.95,77.835,77.835,77.835,Strong Buy,4672839,48786688733,Retail Trade
+EBF,"Ennis, Inc.",18.9,19.5,20.83,22.24,28.45,Sell,55531,493695655,Commercial Services
+EBS,"Emergent Biosolutions, Inc.",52.46,59.78,68.0281,127.2,137.61,Sell,262226,2817140214,Health Technology
+EDU,"New Oriental Education & Technology Group, Inc. Sponsored",2.14,2.34,7.12,19.974,19.974,Neutral,24796875,3654323877,Consumer Services
+EDUC,Educational Development Corporation,9.66,10.87,12.62,19.7399,20,Strong Sell,22831,83618268,Consumer Services
+EEFT,"Euronet Worldwide, Inc.",131.66,134.4594,145.66,167.71,171.254,Neutral,381745,6954857928,Technology Services
+EGHT,8x8 Inc,23.13,25.19,27.29,39.17,39.17,Strong Sell,469734,2591323483,Technology Services
+EGP,"EastGroup Properties, Inc.",172.56,181.19,184.77,184.77,184.77,Buy,146693,6906115803,Finance
+EGRX,"Eagle Pharmaceuticals, Inc.",55.83,58.25,58.25,58.25,104.17,Buy,67728,731211877,Health Technology
+EGY,"VAALCO Energy, Inc.",3.22,3.38,3.38,3.7,15.5,Buy,374025,188643908,Energy Minerals
+EL,"Estee Lauder Companies, Inc. (The)",311.71,341.61,347.82,347.82,347.82,Sell,588549,1.12575E+11,Consumer Non-Durables
+ELF,"e.l.f. Beauty, Inc.",29.64,30.92,31.67,31.67,32.54,Sell,230024,1536127250,Consumer Non-Durables
+EM,Smart Share Global Limited,3.12,4.8699,5.99,10,10,Buy,95948,713857373,Finance
+EMAN,eMagin Corporation,2.43,2.65,3.155,5.42,234.375,Buy,941865,176183904,Electronic Technology
+EME,"EMCOR Group, Inc.",118.21,121.38,125.24,129.45,129.45,Sell,126291,6354224858,Industrial Services
+ENSG,"The Ensign Group, Inc.",72.51,83.05,89.48,98.6641,98.6641,Sell,179780,3998065661,Health Services
+ENTA,"Enanta Pharmaceuticals, Inc.",70.1,70.3,70.3,70.3,127.77,Strong Buy,198445,1417060917,Health Technology
+EOG,"EOG Resources, Inc.",90.53,90.91,90.91,90.91,133.5278,Strong Buy,4848747,52856771929,Energy Minerals
+EOLS,"Evolus, Inc. Common Stock",6.82,9.13,13.145,17.38,39.5,Strong Sell,416536,372209397,Health Technology
+EOSE,"Eos Energy Enterprises, Inc.",10.99,14.74,19.17,31.9516,31.9516,Strong Sell,551109,589461741,Producer Manufacturing
+EPAC,Enerpac Tool Group Corp.,20.6,24.7,27.34,28.84,39.84,Strong Sell,191667,1240172846,Producer Manufacturing
+EPM,"Evolution Petroleum Corporation, Inc.",6.58,6.59,6.59,6.59,24500,Strong Buy,171297,220528392,Energy Minerals
+EPSN,Epsilon Energy Ltd.,5.8,6.8,6.8,6.8,9.24,Buy,39535,136473334,Energy Minerals
+EPZM,"Epizyme, Inc.",4.87,5.8,7.7942,14.3,45.72,Sell,370591,497955148,Health Technology
+ERIC,Ericsson,11.67,11.96,13.4,15.315,131.5625,Buy,5046875,38686320867,Electronic Technology
+ERII,"Energy Recovery, Inc.",19.39,22.02,23.19,23.69,23.69,Sell,110239,1108183097,Producer Manufacturing
+ESCA,"Escalade, Incorporated",19.46,21.815,24.5,25.72,25.72,Neutral,14073,267504261,Consumer Durables
+ESTA,Establishment Labs Holdings Inc.,72.35,78,83.8,88.66,88.66,Buy,35149,1717542166,Health Technology
+ETD,Ethan Allen Interiors Inc.,24.04,26,26.85,32.15,46.64999,Strong Sell,117903,606707441,Consumer Durables
+ETN,"Eaton Corporation, PLC",153.56,164.33,171.32,171.32,171.32,Neutral,1154280,61193659027,Producer Manufacturing
+ETON,"Eton Pharmaceuticals, Inc.",4.99,5.22,6.08,10.3,10.3,Neutral,274871,122754872,Health Technology
+ETSY,"Etsy, Inc.",212.02,228.89,228.89,251.86,251.86,Buy,1695419,26836813144,Retail Trade
+EVGO,EVgo Inc.,7.65,9.25,13.5,24.34,24.34,Sell,1380219,2023706321,Retail Trade
+EVH,"Evolent Health, Inc",34.11,34.6,34.6,34.6,34.6,Strong Buy,1319414,2976703909,Commercial Services
+EVI,"EVI Industries, Inc.",29,29.3663,31.5867,44.4899,48.45,Buy,1391,356074497,Distribution Services
+EVOL,"Evolving Systems, Inc.",2.31,2.4,2.59,5.63,41.25,Buy,14605,28314238,Technology Services
+EVOP,"EVO Payments, Inc.",22.52,26.34,29.95,31.99,31.99,Strong Sell,153859,1151920717,Commercial Services
+EXAS,Exact Sciences Corporation,93.69,108.99,120.76,159.54,159.54,Sell,1120447,16109879837,Health Technology
+EXK,Endeavour Silver Corporation,4.24,4.8,5.83,7.76,13.1,Sell,3132134,722756018.4,Non-Energy Minerals
+EXP,Eagle Materials Inc,137.19,149.21,160.18,160.18,160.18,Neutral,238034,5745800575,Non-Energy Minerals
+EXPD,"Expeditors International of Washington, Inc.",114.29,129.99,130.76,130.76,130.76,Sell,941962,19416860724,Transportation
+EXPO,"Exponent, Inc.",114.54,120.39,120.39,120.39,120.39,Sell,195766,5962808853,Industrial Services
+EYE,"National Vision Holdings, Inc.",57.25,61.44,61.44,61.44,61.44,Sell,177453,4687350739,Retail Trade
+EZGO,EZGO Technologies Ltd.,2.86,3.46,4.98,19.44,19.44,Sell,128103,38331438,Consumer Services
+FARO,"FARO Technologies, Inc.",68.75,70,79.95,97.875,97.875,Buy,58347,1249522543,Electronic Technology
+FAST,Fastenal Company,52.72,54.27,56.39,56.39,56.39,Sell,5158080,30300260809,Distribution Services
+FB,"Facebook, Inc.",330.05,383.79,384.33,384.33,384.33,Sell,15946110,9.30558E+11,Technology Services
+FBHS,"Fortune Brands Home & Security, Inc.",94.68,98.91,103.98,114.005,114.005,Neutral,515903,13054376331,Producer Manufacturing
+FCEL,"FuelCell Energy, Inc.",6.39,7.86,8.31,29.4396,7833.132,Sell,13117589,2342661548,Electronic Technology
+FCN,"FTI Consulting, Inc.",140.84,141.68,146.76,147.38,147.38,Buy,130262,4827776237,Commercial Services
+FELE,"Franklin Electric Co., Inc.",83.36,85.48,86.42,87.7,87.7,Buy,50808,3870609005,Producer Manufacturing
+FGEN,"FibroGen, Inc",10.42,12.165,27.55,57.2088,68.55,Sell,500446,965120628,Health Technology
+FHTX,Foghorn Therapeutics Inc.,13.19,15.5889,15.5889,28.265,28.265,Neutral,29820,487197509,Health Technology
+FIGS,"FIGS, Inc.",35.84,45.2,48.63,50.4,50.4,Strong Sell,905067,5770051009,Consumer Non-Durables
+FIVE,"Five Below, Inc.",185.88,197.89,237.86,237.86,237.86,Neutral,647948,10413331224,Retail Trade
+FIX,"Comfort Systems USA, Inc.",78.46,78.58,78.61,88.53,88.53,Buy,87913,2848505555,Industrial Services
+FLDM,Fluidigm Corporation,5.37,7.09,7.51,7.99,49.4553,Sell,365933,409016657,Health Technology
+FLGC,Flora Growth Corp.,5.68,7.55,21.45,21.45,21.45,Sell,4010512,238694916,Distribution Services
+FLGT,"Fulgent Genetics, Inc.",82.72,98.115,112,189.8899,189.8899,Sell,298887,2441998606,Health Services
+FLO,"Flowers Foods, Inc.",24.79,24.93,25.26,25.48,27.31,Buy,761245,5249385582,Consumer Non-Durables
+FLOW,"SPX FLOW, Inc.",72.9,78.33,86.1745,86.1745,86.1745,Sell,134162,3034814071,Producer Manufacturing
+FLS,Flowserve Corporation,35.41,37.17,43.63,44.39,82.244,Strong Sell,650158,4612605263,Producer Manufacturing
+FLT,"FleetCor Technologies, Inc.",262.55,272.33,272.33,295.36,329.85,Neutral,306513,21687706258,Commercial Services
+FLWS,"1-800-FLOWERS.COM, Inc.",29.73,34.87,34.87,39.6106,39.6106,Strong Sell,297606,1936059386,Retail Trade
+FLXS,"Flexsteel Industries, Inc.",30.54,36.77,41.5741,51.1297,62.99,Sell,23693,208345576,Consumer Durables
+FLYW,Flywire Corporation - Voting,48.69,49.9452,49.9452,49.9452,49.9452,Buy,357423,5103572594,Technology Services
+FND,"Floor & Decor Holdings, Inc.",118.16,132.07,132.07,132.07,132.07,Sell,593604,12435082808,Retail Trade
+FOE,Ferro Corporation,20.72,21.12,21.41,22,30.9375,Strong Buy,451540,1713632880,Process Industries
+FOLD,"Amicus Therapeutics, Inc.",11.51,11.7177,12.11,25.39,25.39,Buy,2756467,3076475393,Health Technology
+FORA,Forian Inc.,10.63,11.53,12.88,45,45,Buy,29619,346098099,Technology Services
+FORR,"Forrester Research, Inc.",50.77,51.61,51.61,51.61,81.5,Strong Buy,22648,973159332,Commercial Services
+FOUR,"Shift4 Payments, Inc.",74,87.66,98.96,104.11,104.11,Strong Sell,1324514,6134306798,Commercial Services
+FR,"First Industrial Realty Trust, Inc.",53.68,55.55,56.9,56.9,56.9,Neutral,372654,7094840829,Finance
+FREQ,"Frequency Therapeutics, Inc.",6.68,7.6959,9.26,58.37,58.37,Sell,107511,228583945,Health Technology
+FSI,Flexible Solutions International Inc.,3.34,3.65,4.47,5.65,5.65,Sell,14481,41173000,Process Industries
+FSM,Fortuna Silver Mines Inc,4.15,4.66,5.34,9.85,9.85,Neutral,3394596,1209416376,Non-Energy Minerals
+FSS,Federal Signal Corporation,40.77,41.3199,41.46,43.77,43.77,Buy,118084,2492342335,Producer Manufacturing
+FSTR,L.B. Foster Company,15.6,16.1775,18.66,19.47,59.95,Sell,23494,169017911,Producer Manufacturing
+FTCH,Farfetch Limited,37.49,43.04,51.53,73.87,73.87,Sell,3787953,13300458558,Technology Services
+FTDR,"Frontdoor, Inc.",42.4,47.09,51.17,58.94,58.94,Sell,216381,3635676236,Consumer Durables
+FTK,"Flotek Industries, Inc.",1.07,1.4,1.799,3.09,55,Sell,452727,79285141,Industrial Services
+FUBO,fuboTV Inc.,25.12,30.5,33.68,62.29,22500,Sell,3483887,3558668063,Technology Services
+FUV,"Arcimoto, Inc.",10.43,12.6337,18.77,36.8,36.8,Sell,455611,390002015,Consumer Durables
+FWONA,Liberty Media Corporation - Series A Liberty Formula One,48.65,49.6175,49.6175,49.6175,49.6175,Buy,56694,29716142047,Consumer Services
+FWRD,Forward Air Corporation,85.19,88.44,92.13,100.93,100.93,Sell,84203,2308682246,Transportation
+G,Genpact Limited,48,51.75,52.75,52.75,52.75,Sell,524156,9011384766,Commercial Services
+GBT,"Global Blood Therapeutics, Inc.",29.6,30.825,35.19,63.65,87.54,Buy,1429100,1847397106,Health Technology
+GCP,GCP Applied Technologies Inc.,22.14,24.795,25.4,27.78,34.79,Sell,141642,1626935910,Process Industries
+GDDY,GoDaddy Inc.,70.01,76.46,88.33,93.745,93.745,Sell,515661,11846333098,Technology Services
+GDS,GDS Holdings Limited,59.8,65.08,75.58,116.76,116.76,Buy,806294,11175043510,Technology Services
+GENE,Genetic Technologies Ltd,2.98,3.54,4.09,8.18,277,Sell,88317,47222819.79,Health Technology
+GEOS,Geospace Technologies Corporation,9.34,10.35,10.94,12.4,113.73,Sell,2469,123309886,Industrial Services
+GEVO,"Gevo, Inc.",6.81,8.27,8.27,15.57,158160,Buy,7156322,1374836281,Process Industries
+GFI,Gold Fields Limited,8.74,8.99,10.34,13.1279,35.293415,Buy,4003301,7700881219,Non-Energy Minerals
+GGG,Graco Inc.,69.99,78.61,80.48,80.48,80.48,Strong Sell,401384,11880214758,Producer Manufacturing
+GH,"Guardant Health, Inc.",104.33,133.53,133.82,181.07,181.07,Sell,1223378,10568491004,Health Services
+GIL,"Gildan Activewear, Inc.",35.98,39.1609,40.2701,40.2701,40.4,Sell,456251,7142877318,Consumer Non-Durables
+GLW,Corning Incorporated,37.16,39.46,42.555,46.82,113.290534,Sell,4494413,31735832873,Electronic Technology
+GOLD,Barrick Gold Corporation,18.52,20.01,22.3,29.6,55.95,Neutral,16069193,32947080217,Non-Energy Minerals
+GOLF,Acushnet Holdings Corp.,48.11,52.7,56.85,56.85,56.85,Sell,104493,3555602204,Consumer Durables
+GOOG,Alphabet Inc.,2801.12,2920.38,2936.4099,2936.4099,2936.4099,Buy,946421,1.86579E+12,Technology Services
+GOOGL,Alphabet Inc.,2795.71,2894.37,2925.075,2925.075,2925.075,Buy,1326292,1.86579E+12,Technology Services
+GOTU,Gaotu Techedu Inc.,3.36,3.58,13.31,149.05,149.05,Neutral,4727192,861510841,Commercial Services
+GPP,Green Plains Partners LP,13.97,13.97,13.97,13.97,21.7489,Strong Buy,21428,324490299,Transportation
+GSMG,Glory Star New Media Group Holdings Limited,1.71,2.55,3.185,4.86,11.5295,Sell,146599,116489304,Technology Services
+GTBP,"GT Biopharma, Inc.",5.91,8.69,15.34,19.7331,10303020,Sell,128498,180149756,Health Technology
+GWW,"W.W. Grainger, Inc.",417.24,422.55,464.19,479.87,479.87,Neutral,167810,21727507005,Distribution Services
+HAIN,"The Hain Celestial Group, Inc.",43.96,44.42,44.42,46.02,70.65,Strong Buy,828043,4246861842,Consumer Non-Durables
+HALO,"Halozyme Therapeutics, Inc.",37.46,42.68,46.19,56.4,56.4,Sell,1569804,5331865220,Health Technology
+HAYN,"Haynes International, Inc.",38.3,39.29,40.82,40.82,100.10001,Strong Buy,28642,485978359,Non-Energy Minerals
+HAYW,"Hayward Holdings, Inc.",22.14,23.43,25.105,26.82,26.82,Buy,384605,5116581696,Consumer Durables
+HBIO,"Harvard Bioscience, Inc.",6.66,8.29,8.75,8.75,11.07365,Sell,161710,271481094,Health Technology
+HCAT,"Health Catalyst, Inc",46.96,57.19,59.5,59.5,59.5,Strong Sell,266214,2387824700,Technology Services
+HCCI,"Heritage-Crystal Clean, Inc.",29.5,30.26,30.26,34.91,34.91,Buy,39703,714282974,Industrial Services
+HCSG,"Healthcare Services Group, Inc.",24.85,27.14,31.76,35.8,56.2,Sell,529750,1855251257,Commercial Services
+HD,"Home Depot, Inc. (The)",334.34,343.74,343.74,345.69,345.69,Buy,2912407,3.52849E+11,Retail Trade
+HEAR,Turtle Beach Corporation,30.12,31.2,31.815,38.7,89.552,Buy,235227,483884781,Consumer Durables
+HELE,Helen of Troy Limited,226.39,239.7,243.08,265.97,265.97,Sell,135625,5462241672,Consumer Durables
+HHR,HeadHunter Group PLC,55.72,58.03,58.03,58.03,58.03,Strong Buy,133321,2803711221,Technology Services
+HIMX,"Himax Technologies, Inc.",10.35,12.11,15.925,17.88,17.88,Sell,1155509,1804005066,Electronic Technology
+HLIO,"Helios Technologies, Inc.",88.35,90.8268,90.8268,90.8268,90.8268,Strong Buy,72405,2861670215,Producer Manufacturing
+HMY,Harmony Gold Mining Company Limited,3.5,3.595,4.35,6.02,19,Buy,4872528,2086340179,Non-Energy Minerals
+HNI,HNI Corporation,37.79,38.6,43.49,46.93,62.41,Buy,299507,1658043786,Producer Manufacturing
+HNST,"The Honest Company, Inc.",9.55,11.65,15.3,23.88,23.88,Sell,601071,862100781,Retail Trade
+HOFT,Hooker Furnishings Corporation,26.84,30.36,36.025,42.9,52.75,Sell,19737,320039798,Consumer Durables
+HOLX,"Hologic, Inc.",71.37,81.04,81.04,85,85,Sell,1061935,18091396166,Health Technology
+HP,"Helmerich & Payne, Inc.",30.79,31.53,32.135,36.26,118.95,Buy,1087864,3322203560,Industrial Services
+HQI,"HireQuest, Inc.",19.77,21.8594,22.68,22.9,106.24248,Buy,5150,269664265,Commercial Services
+HRMY,"Harmony Biosciences Holdings, Inc.",36.15,40.41,40.41,52.74,52.74,Sell,374792,2060856366,Health Technology
+HSIC,"Henry Schein, Inc.",79.83,80.63,81.5796,83.45,83.45,Buy,417068,11151708954,Distribution Services
+HSKA,Heska Corporation,258.1,271.56,275.94,275.94,275.94,Buy,29120,2761807856,Health Technology
+HSTM,"HealthStream, Inc.",28.36,30.31,31.11,31.11,39.77,Sell,22983,894876027,Technology Services
+HSY,The Hershey Company,177.75,181.03,182.71,182.71,182.71,Buy,639229,36623528767,Consumer Non-Durables
+HTHT,Huazhu Group Limited,49.02,52.06,52.29,64.53,64.53,Buy,806108,15461547608,Consumer Services
+HTLD,"Heartland Express, Inc.",16.08,16.62,17.5,20.35,27.96,Sell,283458,1278204189,Transportation
+HUBG,"Hub Group, Inc.",70.75,72.41,72.41,74.95,74.95,Buy,107699,2431791027,Transportation
+HUN,Huntsman Corporation,31.95,32.09,32.09,32.35,36.09,Buy,2323604,7090660510,Process Industries
+HURN,Huron Consulting Group Inc.,50.29,53.0974,53.0974,61.99,84,Sell,41605,1128803946,Commercial Services
+HWKN,"Hawkins, Inc.",37.05,37.81,38.865,39.73,39.73,Buy,16706,785919773,Distribution Services
+HY,"Hyster-Yale Materials Handling, Inc.",49.55,56.68,74.35,102.17,108.13,Sell,26263,833493512,Producer Manufacturing
+HYRE,HyreCar Inc.,8.15,12.55,21.6199,24.21,24.21,Sell,194313,173495265,Finance
+HZO,"MarineMax, Inc. (FL)",49.03,52,56,70.89,70.89,Sell,186064,1066176629,Retail Trade
+IAC,IAC/InterActiveCorp,140.82,143.38,144.87,179.12,179.12,Buy,361162,12566007057,Technology Services
+IBEX,IBEX Limited,17.11,20.35,22.9,25.5,25.5,Strong Sell,8119,314621571,Commercial Services
+ICCC,ImmuCell Corporation,9.3388,10.27,10.4,13.2,15.625,Sell,10345,72299720,Health Technology
+ICFI,"ICF International, Inc.",96.96,96.96,96.96,102.23,102.23,Strong Buy,54004,1828639751,Commercial Services
+ICLK,iClick Interactive Asia Group Limited,6.27,6.5,8.7,19.1,19.1,Buy,834157,591795227,Commercial Services
+ICUI,"ICU Medical, Inc.",228.11,259.93,282,282,321.7,Sell,117429,4838332117,Health Technology
+ID,"PARTS iD, Inc.",4.465,6.55,8.24,10.82,10.82,Sell,22443,148119495,Technology Services
+IDT,IDT Corporation,50.51,51.7999,57.1,57.1,57.1,Buy,282418,1301180759,Communications
+IDXX,"IDEXX Laboratories, Inc.",617.02,692.32,706.95,706.95,706.95,Sell,213715,52493550592,Health Technology
+IESC,"IES Holdings, Inc.",46.28,47.39,55.23,56.235,56.235,Neutral,15037,965249769,Industrial Services
+IFBD,"Infobird Co., Ltd",2.16,2.8,4.16,11.25,11.25,Sell,47613,54540002,Technology Services
+IGC,India Globalization Capital Inc.,1.43,1.63,4.65,4.65,71.1,Sell,264203,72984362,Health Technology
+IHG,Intercontinental Hotels Group,67.6,68.08,68.08,75.2,75.2,Buy,80048,12314420575,Consumer Services
+IIIN,"Insteel Industries, Inc.",39.18,40.02,43.9999,43.9999,43.9999,Buy,33040,758429624,Producer Manufacturing
+IIN,IntriCon Corporation,18.11,21.69,24.93,28.16,76.8,Sell,21214,164751548,Health Technology
+ILMN,"Illumina, Inc.",410,469.87,526,555.77,555.77,Sell,1047177,60146998749,Health Technology
+IMCR,Immunocore Holdings plc,38.03,40.14,40.14,61.9899,61.9899,Buy,33429,1665184873,Health Technology
+IMGN,"ImmunoGen, Inc.",6.02,6.13,6.37,10.88,45.5,Buy,2130089,1218477721,Health Technology
+IMMP,Immutep Limited,3.82,4.26,4.459,7.95,46.66662,Sell,127637,334028225.9,Health Technology
+IMO,Imperial Oil Limited,34.21,34.4,34.4,35.2,63.08,Strong Buy,475118,24103624698,Energy Minerals
+IMOS,ChipMOS TECHNOLOGIES INC.,32.27,41.95,44.72,44.72,62.2,Strong Sell,21554,1174522763,Electronic Technology
+IMUX,"Immunic, Inc.",8.04,10.2,13.14,28.2138,1408,Sell,277121,211045490,Health Technology
+IMXI,"International Money Express, Inc.",16.93,18.39,18.96,18.96,18.96,Buy,307432,653380381,Finance
+INBX,"Inhibrx, Inc.",26.75,38.38,38.38,50.97,50.97,Sell,118727,1013616465,Health Technology
+INCY,Incyte Corporation,65.89,79.5,82.44,101.47,153.15,Sell,1613903,14550835549,Health Technology
+INGN,"Inogen, Inc",42.82,58.38,82.35,82.35,287.79,Sell,124143,968199994,Health Technology
+INS,Intelligent Systems Corporation,41.17,43.3221,43.3221,54.58,56.24,Buy,27833,359932766,Technology Services
+INSG,Inseego Corp.,6.44,8.6,9.6099,21.93,243.75,Sell,700722,664483777,Electronic Technology
+INSM,"Insmed, Inc.",28.46,28.94,29.55,45.44,199.375,Buy,1523911,3279920008,Health Technology
+INTA,"Intapp, Inc.",24.82,39.88,40.9099,40.9099,40.9099,Strong Sell,137747,1510546238,Technology Services
+INTC,Intel Corporation,53.81,55.485,57.455,68.49,75.8125,Sell,16068031,2.18307E+11,Electronic Technology
+INTU,Intuit Inc.,531.12,579.17,582.96,582.96,582.96,Sell,937012,1.45045E+11,Technology Services
+INVO,"INVO BioScience, Inc.",4,4.25,4.56,12.3,272,Buy,354130,46839088,Miscellaneous
+IPAR,"Inter Parfums, Inc.",78,80.35,80.35,80.35,81.4,Buy,70021,2469086632,Consumer Non-Durables
+IPGP,IPG Photonics Corporation,159.53,176.56,220.51,262.5511,264.1114,Sell,155076,8534368696,Electronic Technology
+IRMD,iRadimed Corporation,35.48,36.48,40.51,40.51,40.51,Strong Buy,73772,437043610,Health Technology
+IRTC,"iRhythm Technologies, Inc.",63.2,67,67,286.19,286.19,Buy,328980,1858292277,Health Technology
+IRWD,"Ironwood Pharmaceuticals, Inc.",13.95,14.18,14.27,14.27,17.755444,Buy,1586344,2272385491,Health Technology
+ISRG,"Intuitive Surgical, Inc.",328.54,1085.8599,1087.01,1087.01,1087.01,Sell,1368137,1.1728E+11,Health Technology
+ITGR,Integer Holdings Corporation,89.46,97.615,101.61,101.61,101.61,Sell,55052,2952185089,Producer Manufacturing
+ITI,"Iteris, Inc.",5.35,5.87,6.54,7.813,29.4375,Sell,115269,226206663,Electronic Technology
+JAGGF,Jaguar Mining Inc.,3.2,3.53,4.7176,9.3,12527.4345,Neutral,13356,231727567.1,Non-Energy Minerals
+JBHT,"J.B. Hunt Transport Services, Inc.",169.78,178.71,184.38,184.38,184.38,Sell,577709,17860181788,Transportation
+JBSS,"John B. Sanfilippo & Son, Inc.",82.85,85.0348,93.74,94.97,107.86,Neutral,22262,950248542,Consumer Non-Durables
+JBT,John Bean Technologies Corporation,146.39,161.05,161.05,161.05,161.05,Neutral,59013,4650393756,Producer Manufacturing
+JCTCF,Jewett-Cameron Trading Company,11.6,13.7399,13.7399,13.7399,13.7399,Buy,2336,40474266,Distribution Services
+JD,"JD.com, Inc.",78.61,83.09,84.08,108.29,108.29,Buy,11563279,1.16605E+11,Retail Trade
+JG,Aurora Mobile Limited,1.63,2.18,2.87,11,11.72,Sell,233841,192200723,Technology Services
+JHX,James Hardie Industries plc,35.71,40.56,41.04,41.04,41.04,Sell,22058,15895400000,Non-Energy Minerals
+JJSF,J & J Snack Foods Corp.,152.99,162.92,180,181.71,196.84,Strong Sell,28058,2916586457,Consumer Non-Durables
+JNJ,Johnson & Johnson,160.93,171.48,179.92,179.92,179.92,Sell,4343438,4.23645E+11,Health Technology
+JOBS,"51job, Inc.",69.34,75.535,78.63,79,114.6248,Sell,262378,4676095825,Technology Services
+JOE,St. Joe Company (The),43.62,44.91,47.9643,57.55,85.25,Neutral,51318,2568456737,Finance
+JOUT,Johnson Outdoors Inc.,109.9,113.46,124.9,154.18,154.18,Sell,10935,1100874555,Consumer Durables
+JUPW,"Jupiter Wellness, Inc.",1.66,1.77,4.93,8.88,8.88,Buy,1087136,38059592,Consumer Non-Durables
+JVA,"Coffee Holding Co., Inc.",4.55,4.89,6.05,6.48,30.98,Sell,9862,25974127,Consumer Non-Durables
+JYNT,The Joint Corp.,80.1,110.9699,111.055,111.055,111.055,Sell,600802,1151524333,Health Services
+JZXN,"Jiuzi Holdings, Inc.",2.11,3.03,6.31,49.01,49.01,Sell,199033,42621999,Retail Trade
+KBAL,"Kimball International, Inc.",11.3,12.1,13.2,14.86,22.4,Sell,84380,414250850,Consumer Durables
+KC,Kingsoft Cloud Holdings Limited,28.45,35,36.31,74.67,74.67,Sell,739650,6364950366,Technology Services
+KDP,Keurig Dr Pepper Inc.,35.04,35.58,36.25,37.11,37.11,Buy,6099594,49674492372,Consumer Non-Durables
+KE,"Kimball Electronics, Inc.",27.93,27.97,27.97,29.9899,29.9899,Strong Buy,55811,701068429,Electronic Technology
+KELYA,"Kelly Services, Inc.",19.71,20.695,25,26.98,38.75,Buy,54776,776441281,Commercial Services
+KERN,Akerna Corp.,2.7,3.71,4.02,10.438,72.65,Sell,743124,81046582,Technology Services
+KFRC,"Kforce, Inc.",67.48,68.26,68.26,68.26,68.26,Buy,103314,1459535656,Commercial Services
+KFY,Korn Ferry,76.09,77.93,77.93,77.93,77.93,Buy,261123,4147362251,Commercial Services
+KGC,Kinross Gold Corporation,5.67,5.96,6.7,9.42,31.875,Neutral,8430190,7155162707,Non-Energy Minerals
+KIDS,OrthoPediatrics Corp.,59.27,70.59,72.4999,72.4999,72.4999,Sell,83560,1165995903,Health Technology
+KIRK,"Kirkland's, Inc.",21.27,21.96,24.32,34.45,34.45,Buy,209240,286650121,Retail Trade
+KLAC,KLA Corporation,326.05,374.6,374.6,374.6,374.6,Sell,643140,49557220033,Electronic Technology
+KN,Knowles Corporation,18.72,19.85,20.52,22.11,33.82,Sell,1350398,1721987284,Electronic Technology
+KNSA,"Kiniksa Pharmaceuticals, Ltd.",11.19,13.24,16.6787,24.7,32.88,Sell,166965,766773115,Health Technology
+KO,Coca-Cola Company (The),54.12,56.42,57.56,57.56,60.13,Buy,13786816,2.33798E+11,Consumer Non-Durables
+KOSS,Koss Corporation,15.27,19.71,20.89,127.45,127.45,Strong Sell,82540,132447495,Consumer Durables
+KRKR,36Kr Holdings Inc.,1.55,2.02,2.38,8.5,14.5,Strong Sell,102684,59759929,Technology Services
+KRO,Kronos Worldwide Inc,12.83,13.38,14.41,18.41,34.5,Neutral,94181,1482505356,Process Industries
+KRT,Karat Packaging Inc.,19.23,24.2694,25.91,25.91,25.91,Sell,39285,379013664,Process Industries
+KRUS,"Kura Sushi USA, Inc.",46.14,49.27,56.98,56.98,56.98,Buy,42687,447324904,Consumer Services
+KTB,"Kontoor Brands, Inc.",48.21,56.205,60.01,69.1593,69.1593,Sell,251105,2779980170,Consumer Non-Durables
+KULR,"KULR Technology Group, Inc.",1.98,2.74,2.74,3.19,5,Sell,481711,201368504,Producer Manufacturing
+KXIN,Kaixin Auto Holdings,2.32,3.3999,3.73,13.4,13.4,Sell,1710541,332828339,Retail Trade
+LANC,Lancaster Colony Corporation,173.36,177.07,201.31,201.31,201.31,Sell,33388,4772774201,Consumer Non-Durables
+LAW,"CS Disco, Inc.",47.37,68,69.41,69.41,69.41,Sell,443614,2720525913,Technology Services
+LBRDK,Liberty Broadband Corporation,168.5,188.3,194.05,194.05,194.05,Strong Sell,689738,30562110881,Communications
+LBRT,Liberty Oilfield Services Inc.,13.75,14.09,14.09,17.78,23.9,Strong Buy,1235269,2477350145,Industrial Services
+LCII,LCI Industries,137.2,139.34,151.94,156.6099,156.6099,Buy,51859,3467296777,Producer Manufacturing
+LE,"Lands' End, Inc.",22.74,27.105,44.4,44.4,56.25,Sell,124052,749988517,Retail Trade
+LEA,Lear Corporation,168.25,170.22,178.56,204.91,206.3599,Buy,331400,10051486980,Producer Manufacturing
+LECO,"Lincoln Electric Holdings, Inc.",135.73,136.92,143.3,143.3,143.3,Buy,155884,8060543031,Producer Manufacturing
+LEVI,Levi Strauss & Co,25.55,27.155,30.09,30.84,30.84,Neutral,3661284,10292028443,Consumer Non-Durables
+LFUS,"Littelfuse, Inc.",277.44,286.9,289.99,289.99,289.99,Buy,41100,6829778272,Producer Manufacturing
+LFVN,Lifevantage Corporation,6.86,7.87,8.625,13.67,141.707475,Sell,37250,90798583,Health Technology
+LGND,Ligand Pharmaceuticals Incorporated,127.76,146.17,146.17,219.75,278.62,Sell,52001,2130593615,Health Technology
+LGVN,Longeveron Inc.,3.42,4.1,7.64,12.48,12.48,Sell,30787,65372036,Health Technology
+LH,Laboratory Corporation of America Holdings,278.34,309.6016,309.6016,309.6016,309.6016,Sell,510697,26915476796,Health Services
+LI,Li Auto Inc.,28.49,31.63,35.4385,47.7,47.7,Buy,3743200,29419460547,Consumer Durables
+LII,"Lennox International, Inc.",295.05,330,345.65,356.36,356.36,Strong Sell,280947,10966017043,Producer Manufacturing
+LINC,Lincoln Educational Services Corporation,6.91,7.15,7.49,8.2,28.21001,Buy,47237,186377650,Commercial Services
+LIQT,"LiqTech International, Inc.",6.06,6.94,7.24,12.7,19.8,Buy,101555,131970875,Producer Manufacturing
+LITB,"LightInTheBox Holding Co., Ltd.",1.5,1.68,2.09,5.69,23.38,Buy,126915,168111721,Retail Trade
+LITE,Lumentum Holdings Inc.,84.16,89.65,89.65,112.08,112.08,Sell,230197,6105522793,Producer Manufacturing
+LIZI,LIZHI INC.,3.1,4.13,6.44,16.7499,16.7499,Sell,323635,155864286,Technology Services
+LKCO,Luokung Technology Corp,1.11,1.8,2.24,3.86,98.39,Strong Sell,3609411,493811629,Technology Services
+LKQ,LKQ Corporation,52.52,53.01,53.172,53.172,53.172,Strong Buy,1782041,15561040792,Consumer Durables
+LL,"Lumber Liquidators Holdings, Inc",18.21,20.35,22.07,35.1,119.98,Strong Sell,396705,529576955,Retail Trade
+LLY,Eli Lilly and Company,233.94,254.02,275.87,275.87,275.87,Buy,2563117,2.23783E+11,Health Technology
+LMAT,"LeMaitre Vascular, Inc.",53.49,60.21,60.79,64.495,64.495,Sell,39767,1158645052,Health Technology
+LNN,Lindsay Corporation,160.75,162,179.265,179.265,179.265,Buy,20824,1753336977,Producer Manufacturing
+LOCO,"El Pollo Loco Holdings, Inc.",16.58,18.2575,19.2,21.96,41.7,Strong Sell,61343,607454061,Consumer Services
+LOVE,The Lovesac Company,71.83,76.8299,76.8299,95.51,95.51,Buy,243421,1085962893,Retail Trade
+LRMR,"Larimar Therapeutics, Inc.",10.94,14.45,15.2581,25.87,25.87,Sell,28194,193752307,Health Technology
+LRN,"Stride, Inc.",36.95,37.6,37.6,37.6,52.84,Buy,349381,1536823128,Consumer Services
+LSTR,"Landstar System, Inc.",155.21,167.06,173.23,182.63,182.63,Strong Sell,326951,5940787580,Transportation
+LTRX,"Lantronix, Inc.",6.13,6.89,6.89,6.89,74.25,Buy,42880,182057758,Distribution Services
+LULU,lululemon athletica inc.,397.22,437.32,437.32,437.32,437.32,Sell,560705,51564532399,Retail Trade
+LUNG,Pulmonx Corporation,38.22,42.21,43,69.4779,69.4779,Sell,210440,1402300832,Health Technology
+LVTX,LAVA Therapeutics N.V.,7.11,7.4,11.13,17.2,17.2,Buy,52755,183264075,Health Technology
+MAA,"Mid-America Apartment Communities, Inc.",191.18,195.4199,197.5,197.5,197.5,Buy,375690,22180687523,Finance
+MAN,ManpowerGroup,113.35,121.4,123.84,125.07,136.93,Buy,367133,6147295959,Commercial Services
+MAS,Masco Corporation,56.87,60.7,63.15,68.54,68.54,Neutral,1505861,14056156623,Producer Manufacturing
+MASI,Masimo Corporation,271.53,288.27,288.27,288.27,288.27,Sell,106164,14949601032,Health Technology
+MASS,908 Devices Inc.,32.3,38.43,39.8149,79.6,79.6,Strong Sell,99210,893066196,Health Technology
+MAX,"MediaAlpha, Inc.",18.3,21.94,35.95,70.3331,70.3331,Strong Sell,89582,1100844985,Technology Services
+MAXN,"Maxeon Solar Technologies, Ltd.",16.55,19.94,19.94,57.97,57.97,Sell,239883,731453033,Utilities
+MCFT,"MasterCraft Boat Holdings, Inc.",26.5,27.009,28,33.63,39.5,Buy,139976,504100724,Consumer Durables
+MCHP,Microchip Technology Incorporated,146.14,166.13,166.13,166.67,166.67,Sell,2269393,40048228981,Electronic Technology
+MDLA,"Medallia, Inc.",33.91,33.95,34.4,48.28,48.28,Buy,2093889,5464840493,Technology Services
+MDLZ,"Mondelez International, Inc.",59.54,61.44,65.6,65.6,65.6,Sell,5787650,83226055520,Consumer Non-Durables
+MDRX,"Allscripts Healthcare Solutions, Inc.",13.97,14.86,18.48,19.005,53.443388,Neutral,985849,1746401807,Technology Services
+MDVL,"MedAvail Holdings, Inc.",2.7,3.88,10.9,20.79,202.2,Sell,148210,88415680,Health Technology
+MEC,"Mayville Engineering Company, Inc.",18.61,20.93,20.93,22.16,22.16,Buy,86200,381056772,Producer Manufacturing
+MEG,"Montrose Environmental Group, Inc.",61.21,68.65,68.65,68.65,68.65,Buy,335841,1770667762,Commercial Services
+MEI,"Methode Electronics, Inc.",43.05,43.96,49.36,50.195,50.195,Neutral,97849,1643258791,Electronic Technology
+MESO,Mesoblast Limited,5.66,6.47,7.88,17.4108,21.28,Sell,93701,729593588,Health Technology
+METC,"Ramaco Resources, Inc.",15.35,16.72,16.72,16.72,16.72,Strong Buy,785003,677078806,Energy Minerals
+MGA,"Magna International, Inc.",82.99,84.2,90.875,104.28,104.28,Buy,1132473,24951403716,Producer Manufacturing
+MGEE,MGE Energy Inc.,74.51,82.1,82.95,82.95,83.26,Sell,30060,2694532928,Utilities
+MGNI,"Magnite, Inc.",28.16,32.43,36.59,64.39,64.39,Sell,687975,3696021035,Commercial Services
+MGRC,McGrath RentCorp,74.37,76.12,81.67,87.53,87.53,Buy,46626,1803120071,Finance
+MGY,Magnolia Oil & Gas Corporation,19.79,20.0599,20.0599,20.0599,20.0599,Strong Buy,2955316,4667573560,Energy Minerals
+MHK,"Mohawk Industries, Inc.",178.63,194.4174,211.745,231.8,286.85,Strong Sell,488116,12330694098,Consumer Durables
+MIND,"MIND Technology, Inc.",1.78,2.14,2.14,3.29,33.125,Sell,39662,24517903,Industrial Services
+MIXT,MiX Telematics Limited,12.76,13.4862,14.75,16.79,21,Sell,7425,284814079.5,Technology Services
+MLAB,"Mesa Laboratories, Inc.",307.89,325.5,325.5,325.5,325.5,Buy,14253,1602078614,Health Technology
+MLI,"Mueller Industries, Inc.",43.36,43.73,45.5,48.06,48.06,Buy,167898,2478188348,Producer Manufacturing
+MLP,"Maui Land & Pineapple Company, Inc.",10.3,10.9199,12.2,12.8,47.2,Sell,4689,200290357,Finance
+MLR,"Miller Industries, Inc.",34.37,36.7,39.35,47.57,114.375,Sell,17460,392186692,Producer Manufacturing
+MLSS,"Milestone Scientific, Inc.",2.17,2.43,2.43,4.8526,90.375,Buy,372592,145751153,Health Technology
+MMM,3M Company,176.95,188.51,203.21,208.95,259.77,Sell,2469608,1.0239E+11,Producer Manufacturing
+MMSI,"Merit Medical Systems, Inc.",72.52,73.81,73.85,73.85,73.85,Buy,108722,4080738144,Health Technology
+MNRL,"Brigham Minerals, Inc.",20.56,20.92,20.93,21.94,23.29,Strong Buy,144320,1167531479,Miscellaneous
+MNRO,"Monro, Inc.",57.64,61.8,64.77,72.67,89.72,Buy,144287,1931259024,Retail Trade
+MNST,Monster Beverage Corporation,89.27,97.11,99.89,99.89,99.89,Strong Sell,1605514,47213633878,Consumer Non-Durables
+MNTK,"Montauk Renewables, Inc.",10.82,14,14,14.93,14.93,Neutral,71649,1553587748,Utilities
+MNTV,Momentive Global Inc.,23.7,23.82,23.82,28.12,28.12,Strong Buy,2051876,3496059309,Technology Services
+MODN,"Model N, Inc.",32.41,37.385,39.99,48.2,48.2,Strong Sell,66260,1159759571,Technology Services
+MORF,"Morphic Holding, Inc.",57.76,68.32,68.32,93,93,Sell,86803,2105414118,Health Technology
+MPX,Marine Products Corporation,12.75,14.793,17.87,19.28,24.82,Sell,13989,433421645,Consumer Durables
+MRAM,"Everspin Technologies, Inc.",6.1,7.125,7.6091,8.2,25.39,Sell,51480,118813673,Electronic Technology
+MRK,"Merck & Company, Inc.",80.63,84.56,84.56,84.56,92.193948,Buy,12120901,2.04105E+11,Health Technology
+MRM,MEDIROM Healthcare Technologies Inc.,9.16,18.45,18.45,19.8,19.8,Buy,16860,44174108,Consumer Services
+MRNS,"Marinus Pharmaceuticals, Inc.",11.64,12.6,19.28,20.04,82.88,Sell,92672,427560919,Health Technology
+MRVL,"Marvell Technology, Inc.",64.62,67.19,67.19,67.19,67.19,Buy,5665694,53223063892,Electronic Technology
+MSA,MSA Safety Incorporated,148.27,160.21,167.49,172.842,172.842,Sell,33400,5810646966,Consumer Durables
+MSEX,Middlesex Water Company,104.48,116.395,116.395,116.395,116.395,Sell,57037,1827413823,Utilities
+MSFT,Microsoft Corporation,294.85,305.32,305.84,305.84,305.84,Buy,17685694,2.21577E+12,Technology Services
+MSGM,Motorsport Games Inc.,14.08,15.11,15.11,38,38,Buy,3900,262393437,Technology Services
+MSM,"MSC Industrial Direct Company, Inc.",84.27,84.685,91.25,96.23,105.7,Buy,230038,4690270238,Distribution Services
+MSON,"MISONIX, Inc.",25.29,26.6,26.99,26.99,27.54,Neutral,28397,440679404,Health Technology
+MSP,Datto Holding Corp.,22.36,25.42,27.9,33.46,33.46,Sell,157176,3628513317,Technology Services
+MTBC,"CareCloud, Inc.",8.07,8.9,9.39,12.84,13.4,Buy,36140,117932638,Technology Services
+MTD,"Mettler-Toledo International, Inc.",1385.3,1626.62,1626.62,1626.62,1626.62,Sell,62852,32023897480,Health Technology
+MTH,Meritage Homes Corporation,98.27,106.88,115.62,120.19,120.19,Sell,220954,3699556256,Consumer Durables
+MTLS,Materialise NV,19.43,25,25,87.4,87.4,Sell,155178,1141912912,Technology Services
+MTN,"Vail Resorts, Inc.",343.64,353.9,353.9,353.9,353.9,Buy,209184,13891691764,Consumer Services
+MTRN,Materion Corporation,70.57,72.6747,76.97,80.7,80.7,Neutral,34679,1442284733,Non-Energy Minerals
+MTRX,Matrix Service Company,10.4,11.2,11.76,16.32,38.71,Sell,51493,277649073,Industrial Services
+MTZ,"MasTec, Inc.",87.98,93.57,105.55,122.33,122.33,Sell,634561,6538224096,Industrial Services
+MU,"Micron Technology, Inc.",70.12,75.88,83.09,96.96,97.5,Sell,13666158,78437902477,Electronic Technology
+MUX,McEwen Mining Inc.,1.09,1.21,1.32,1.71,36.25,Sell,1910026,500514291,Non-Energy Minerals
+MVIS,"MicroVision, Inc.",9.92,14.19,16.38,28,548,Strong Sell,5819926,1626478738,Electronic Technology
+MWA,MUELLER WATER PRODUCTS,15.91,16.28,16.9,16.9,19.35001,Strong Buy,482587,2522693421,Producer Manufacturing
+MXL,"MaxLinear, Inc.",48.66,54.43,55,55,55,Sell,503511,3721007973,Electronic Technology
+MYE,"Myers Industries, Inc.",20.35,21.64,23.63,23.98,25.7,Sell,46413,736137882,Process Industries
+MYGN,"Myriad Genetics, Inc.",30.88,35.65,36.9547,36.9547,65.801298,Sell,214783,2410349653,Health Technology
+NAKD,Naked Brand Group Limited,0.6465,0.9447,0.9447,3.4,1136,Sell,30214471,586096792,Consumer Non-Durables
+NATR,"Nature's Sunshine Products, Inc.",15.16,17.05,19.06,21.5,30.5,Neutral,87479,302235379,Consumer Non-Durables
+NAVB,"Navidea Biopharmaceuticals, Inc.",1.741,1.83,1.96,3.15,465,Buy,23548,52514210,Health Technology
+NBIX,"Neurocrine Biosciences, Inc.",104.08,105.25,105.25,120.27,136.265,Buy,400821,9850800709,Health Technology
+NCSM,"NCS Multistage Holdings, Inc.",26.75,29.68,31.1899,47.97,581.4,Sell,605,63674442,Industrial Services
+NDLS,Noodles & Company,13.04,13.44,13.44,13.55,51.96989,Buy,131107,595070278,Consumer Services
+NDSN,Nordson Corporation,237.98,245.905,245.905,245.905,245.905,Sell,198697,13830101636,Producer Manufacturing
+NEM,Newmont Corporation,54.31,57.8901,64.71,75.31,81.924745,Sell,5088197,43400539514,Non-Energy Minerals
+NEN,New England Realty Associates Limited Partnership,59.64,62.66,62.66,65,75.25,Neutral,3563,217867614,Finance
+NEO,"NeoGenomics, Inc.",41.76,54.74,54.74,61.57,225,Sell,1043540,5128809096,Health Services
+NEOG,Neogen Corporation,41.42,44.74,46.16,48.85,48.85,Strong Sell,183296,4452360654,Health Technology
+NEON,Neonode Inc.,8.96,12.42,12.42,12.42,84375,Buy,134762,103223691,Technology Services
+NEPH,"Nephros, Inc.",8,9.1,9.7427,11.6659,1128.71286,Sell,5387,81738785,Health Technology
+NET,"Cloudflare, Inc.",139.66,139.9,139.9,139.9,139.9,Strong Buy,2996871,43634014156,Technology Services
+NEU,NewMarket Corp,354.79,357.09,357.09,432.5493,505.16,Buy,37258,3877191051,Process Industries
+NEWR,"New Relic, Inc.",74.95,79.85,82.76,82.76,114.78,Buy,165050,4860341931,Technology Services
+NGM,"NGM Biopharmaceuticals, Inc.",20.27,27.25,27.25,32.12,32.12,Sell,363237,1567644182,Health Technology
+NGS,"Natural Gas Services Group, Inc.",12.28,12.93,12.93,12.93,39.99001,Buy,72324,161890452,Industrial Services
+NIO,NIO Inc.,35.83,39.52,47.38,66.99,66.99,Sell,31959704,58708104087,Consumer Durables
+NISN,"NiSun Intl Enterprise Development Group Co, Ltd",11.08,12.02,12.165,24.94,24.94,Neutral,64527,227750818,Producer Manufacturing
+NIU,Niu Technologies,25.13,29.56,34.44,53.38,53.38,Sell,257249,1916790661,Consumer Durables
+NJR,NewJersey Resources Corporation,37,37.76,40.72,44.41,51.83,Neutral,305495,3568054260,Utilities
+NLS,"Nautilus, Inc.",9.28,11,16.09,31.38,45.89,Sell,435993,287036873,Consumer Durables
+NOTV,"Inotiv, Inc.",33.6,50.33,50.33,50.33,50.33,Buy,198172,537227663,Health Services
+NOVT,Novanta Inc.,161.43,168.73,168.73,168.73,168.73,Buy,103928,5728993065,Electronic Technology
+NP,"Neenah, Inc.",48.49,49.64,51.8986,61.49,96.15,Buy,35859,817667426,Process Industries
+NRC,National Research Corporation,42.74,51,55.67,59.2,71.3525,Sell,19621,1087263520,Health Services
+NSC,Norfolk Southern Corporation,264.88,265.88,270.215,295.14,295.14,Buy,1096854,65418001183,Transportation
+NSSC,"NAPCO Security Technologies, Inc.",43.72,45.4799,45.4799,45.4799,45.4799,Buy,62246,802309404,Producer Manufacturing
+NSTG,"NanoString Technologies, Inc.",42.14,62.3425,63.91,86.42,86.42,Strong Sell,832840,1918281593,Health Technology
+NTCT,"NetScout Systems, Inc.",26.96,28.15,29.86,31.91,48.13,Strong Sell,261863,1997347140,Technology Services
+NTES,"NetEase, Inc.",96.32,97.36,114.77,134.33,134.33,Buy,6593165,56897214649,Technology Services
+NTGR,"NETGEAR, Inc.",32.98,34.135,39.04,46.38,48.647555,Sell,166676,1007327602,Technology Services
+NTIC,Northern Technologies International Corporation,16.55,17.99,21.5,21.5,21.5,Neutral,2688,150768199,Process Industries
+NTLA,"Intellia Therapeutics, Inc.",120.71,168.35,180.5937,202.73,202.73,Sell,2859628,8870621169,Health Technology
+NTNX,"Nutanix, Inc.",35.38,44.2,44.5,44.5,64.8699,Sell,2041080,7579396051,Technology Services
+NTP,Nam Tai Property Inc.,26.88,29.15,29.15,37.88,41.46001,Strong Buy,114824,1053641950,Electronic Technology
+NTRA,"Natera, Inc.",114.07,129.09,129.09,129.09,129.09,Neutral,292637,10697836027,Health Services
+NTST,NetSTREIT Corp.,23.52,26.38,26.925,26.925,26.925,Sell,126300,950878223,Finance
+NTUS,Natus Medical Incorporated,24.41,27.05,27.54,29.7,51.05,Sell,40006,833130082,Health Technology
+NUVA,"NuVasive, Inc.",58.03,64.43,68.72,72.61,81.91,Strong Sell,411766,2998105330,Health Technology
+NVAX,"Novavax, Inc.",164.05,274.1,277.7999,331.68,331.68,Sell,3289332,12219126901,Health Technology
+NVDA,NVIDIA Corporation,208.31,229.64,230.43,230.43,230.43,Sell,15125791,5.20775E+11,Electronic Technology
+NVEC,NVE Corporation,64.05,69.37,80.03,81.42,171.875,Sell,7941,309568520,Technology Services
+NVRO,Nevro Corp.,114.8,127.969,157.87,188.14,188.14,Strong Sell,272832,4002587257,Health Technology
+NVT,nVent Electric plc,32.13,33.83,34.97,34.97,34.97,Sell,415038,5401282329,Electronic Technology
+NVTA,Invitae Corporation,26.15,32.93,32.93,61.59,61.59,Sell,1214191,5683432442,Health Services
+NWPX,Northwest Pipe Company,26.17,26.59,29.19,38.075,65.19,Buy,51591,258312748,Producer Manufacturing
+NWS,News Corporation,23.93,24.25,25.69,26.21,26.21,Strong Buy,541110,14197538090,Consumer Services
+NWSA,News Corporation,24.08,24.51,26.42,27.965,27.965,Buy,1555028,14197538090,Consumer Services
+NX,Quanex Building Products Corporation,21.29,22.68,25.39,29.02,29.02,Strong Sell,140404,713678930,Producer Manufacturing
+NXGN,"NextGen Healthcare, Inc.",14.56,15.46,16.925,23.8,50.699995,Neutral,277323,980355958,Technology Services
+NXPI,NXP Semiconductors N.V.,190.31,218.14,228.72,228.72,228.72,Sell,1394358,50457819830,Electronic Technology
+NYT,New York Times Company (The),53.02,53.33,53.33,58.73,58.73,Strong Buy,1199967,8859212810,Consumer Services
+OBCI,"Ocean Bio-Chem, Inc.",9.95,9.98,13.4,18.03,22.55,Buy,9989,94383697,Consumer Non-Durables
+OBLG,Oblong Inc.,1.98,2.67,3.35,12.25,720,Sell,29723,60619777,Electronic Technology
+OCUL,"Ocular Therapeutix, Inc.",9.75,11.585,13.49,24.3,44.19,Sell,511276,746683582,Health Technology
+ODC,Oil-Dri Corporation Of America,34.93,35.35,36.19,38.45,50.82,Buy,5971,240901161,Process Industries
+ODFL,"Old Dominion Freight Line, Inc.",287.67,304.08,304.22,304.22,304.22,Sell,536252,33315089890,Transportation
+OEG,"Orbital Energy Group, Inc.",2.86,3.45,4.8682,11.1999,328.125,Sell,1252998,186655906,Producer Manufacturing
+OESX,"Orion Energy Systems, Inc.",3.95,4.38,5.37,11.98,22.46001,Neutral,287906,122452774,Producer Manufacturing
+OFIX,Orthofix Medical Inc.,36.69,41.875,43.3,48.5,74.44,Strong Sell,37210,722604893,Health Technology
+OFLX,"Omega Flex, Inc.",139.43,152.763,163.27,193.6,193.6,Sell,10418,1407451271,Producer Manufacturing
+OIIM,O2Micro International Limited,6.06,7.39,8.04,11.25,18,Sell,49952,172372681,Electronic Technology
+OKTA,"Okta, Inc.",228.55,269.23,276.3,294,294,Strong Sell,1105678,35348179408,Technology Services
+OLED,Universal Display Corporation,169.01,204.67,237,262.77,262.77,Sell,237617,7963736577,Electronic Technology
+OLK,Olink Holding AB (publ),24.45,30.95,38.78,42.2,42.2,Sell,80548,2909722757,Health Technology
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",61.03,74.28,95.43,123.52,123.52,Sell,644116,3971286258,Retail Trade
+OLO,Olo Inc.,28.25,36.38,49,49,49,Strong Sell,1086351,4172635257,Technology Services
+OM,"Outset Medical, Inc.",48.17,56.125,56.125,66.96,66.96,Sell,133827,2230906483,Health Technology
+OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,49.59,50.39,52.24,60.53,67.07,Buy,62934,2454040945,Transportation
+OMCL,"Omnicell, Inc.",157.84,163.7841,163.7841,163.7841,163.7841,Buy,123038,6861987628,Technology Services
+ON,ON Semiconductor Corporation,44.48,49.78,49.78,49.78,49.78,Sell,3279486,19150073240,Electronic Technology
+ONDS,Ondas Holdings Inc.,9.9,10.75,10.75,16,19.5,Buy,701394,402016445,Technology Services
+ONEM,"1Life Healthcare, Inc.",20.45,25.5,31.33,59.82,59.82,Sell,1550679,3949371449,Health Services
+ONTF,"ON24, Inc.",18.96,21.77,40.03,81.98,81.98,Sell,274717,884502574,Technology Services
+ONTO,Onto Innovation Inc.,71.87,79.99,79.99,79.99,79.99,Sell,77547,3540873861,Electronic Technology
+OPK,"Opko Health, Inc.",3.69,3.97,4.02,6.27,19.2,Sell,1429189,2513490024,Health Technology
+OPRA,Opera Limited,8.94,9.88,10.76,13.93,15.62,Sell,42136,1029403994,Technology Services
+OPRX,OptimizeRx Corporation,79.82,89.115,89.115,89.115,6000.6,Buy,272270,1406317171,Technology Services
+ORLY,"O'Reilly Automotive, Inc.",610.25,629.395,629.395,629.395,629.395,Buy,465596,42077801825,Retail Trade
+ORN,"Orion Group Holdings, Inc.",5.08,5.8,5.98,6.67,24.98,Sell,89012,157030713,Industrial Services
+OSH,"Oak Street Health, Inc.",37.86,54.14,65.22,66.31,66.31,Strong Sell,1444672,9118916443,Health Services
+OSIS,"OSI Systems, Inc.",97.23,97.935,101.4,102.235,117.21,Strong Buy,33550,1739619211,Electronic Technology
+OSPN,OneSpan Inc.,19.72,20.915,25.66,29.17,44.25,Neutral,160695,792952213,Technology Services
+OSS,"One Stop Systems, Inc.",4.9,6,6.66,9.5,9.5,Strong Sell,87436,91281474,Electronic Technology
+OSTK,"Overstock.com, Inc.",78.28,84.26,102.75,112.2952,128.5,Buy,712679,3367074050,Retail Trade
+OSUR,"OraSure Technologies, Inc.",11.18,13.57,13.57,17.79,27.5,Buy,413606,805059904,Health Technology
+OTEX,Open Text Corporation,49.16,54.47,55.25,55.25,55.25,Sell,293575,13359444934,Technology Services
+OTIS,Otis Worldwide Corporation,83.45,91.71,92.84,92.84,92.84,Sell,1942610,35614677541,Producer Manufacturing
+OTLY,Oatly Group AB,14.6,18.55,23.17,29,29,Sell,6694522,8640794379,Consumer Non-Durables
+OTRK,"Ontrak, Inc.",8.99,11.94,32.36,99.89,25146.9696,Sell,169528,172137350,Health Services
+OXM,"Oxford Industries, Inc.",89.45,95.73,103.4,114.47,114.47,Sell,101606,1511266952,Consumer Non-Durables
+OZON,Ozon Holdings PLC,49.26,52.79,55.7,68.77,68.77,Sell,252359,10100357542,Retail Trade
+PAAS,Pan American Silver Corp.,23.99,26.31,29.14,39.6197,44.10001,Sell,1851306,5045082444,Non-Energy Minerals
+PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",124.05,125.3,125.3,125.3,135.31,Buy,35440,5897811295,Transportation
+PACB,"Pacific Biosciences of California, Inc.",24.88,30.7,35.5752,53.69,53.69,Sell,1513560,4951083388,Health Technology
+PATH,"UiPath, Inc.",51.38,56.75,67.09,90,90,Sell,3581656,26385444162,Technology Services
+PATI,"Patriot Transportation Holding, Inc.",11.84,12.78,12.83,13.155,27.5,Buy,2779,40281410,Transportation
+PAY,"Paymentus Holdings, Inc.",23.44,26.945,36,39.2292,39.2292,Strong Sell,43555,2750922892,Commercial Services
+PAYA,Paya Holdings Inc.,9.7,11.505,11.99,15,15,Strong Sell,830388,1235872349,Commercial Services
+PAYC,"Paycom Software, Inc.",505.06,521.82,521.82,521.82,521.82,Buy,155867,30351274832,Technology Services
+PAYX,"Paychex, Inc.",118.67,119.38,119.38,119.38,119.38,Buy,1099753,42791304743,Technology Services
+PBPB,Potbelly Corporation,6.49,7.22,7.86,9.07,33.8999,Sell,161761,183388258,Consumer Services
+PBTS,"Powerbridge Technologies Co., Ltd.",1.18,1.452,2.75,9.65,9.65,Sell,16726920,54017232,Technology Services
+PBYI,Puma Biotechnology Inc,6.12,7.73,8.78,14.14,279.37,Sell,214220,249567658,Health Technology
+PCRX,"Pacira BioSciences, Inc.",47.97,59.87,62.61,80,121.95,Sell,440721,2132496428,Health Technology
+PCTY,Paylocity Holding Corporation,275.5,298.63,298.63,298.63,298.63,Neutral,197604,15042694736,Technology Services
+PCYG,"Park City Group, Inc.",5.59,5.94,5.94,7.91,206.25,Buy,4441,108418908,Technology Services
+PD,"PagerDuty, Inc.",39.46,47.8165,50.33,58.36,59.82,Strong Sell,803319,3353013411,Technology Services
+PDD,Pinduoduo Inc.,96.22,107.61,114.88,212.5965,212.5965,Buy,7394374,1.20591E+11,Retail Trade
+PEP,"PepsiCo, Inc.",156.03,157.75,159.63,159.63,159.63,Buy,4186222,2.15735E+11,Consumer Non-Durables
+PESI,"Perma-Fix Environmental Services, Inc.",7.16,7.26,7.5599,7.99,41.25,Buy,794,87327818,Industrial Services
+PFIE,"Profire Energy, Inc.",1.19,1.2402,1.2402,1.74,5.89,Strong Buy,500308,57404420,Producer Manufacturing
+PFSW,"PFSweb, Inc.",13.28,13.5,13.65,13.65,247.63125,Strong Buy,61013,280209570,Technology Services
+PHG,Koninklijke Philips N.V. NY Registry Shares,43.1,47.68,48.72,61.23,61.23,Sell,564661,39308867885,Health Technology
+PHX,PHX Minerals Inc.,3.46,3.56,3.69,4.3699,34.44495,Strong Buy,143946,113314368,Energy Minerals
+PI,"Impinj, Inc.",52.67,62.99,62.99,79.05,79.05,Sell,114164,1279376304,Electronic Technology
+PII,Polaris Inc.,127.44,128.41,139.7896,147.73,159.33,Buy,855834,7721588795,Consumer Durables
+PING,Ping Identity Holding Corp.,25.37,27.07,27.99,37.2293,37.8,Buy,441092,2083176464,Technology Services
+PINS,"Pinterest, Inc.",51.64,55.99,77.92,89.9,89.9,Sell,4846266,33288632490,Technology Services
+PIXY,"ShiftPixy, Inc.",1.04,1.44,2.25,4.69,465.6,Sell,286384,29861623,Commercial Services
+PKG,Packaging Corporation of America,139.13,153.785,155.78,156.54,156.54,Sell,759628,13216263511,Process Industries
+PKI,"PerkinElmer, Inc.",169.97,192,192,192,192,Neutral,472049,21450116378,Health Technology
+PLNT,"Planet Fitness, Inc.",79.32,84.27,84.27,90.34,90.34,Neutral,477593,6868824482,Consumer Services
+PLPC,Preformed Line Products Company,66.6,70.04,76.6,82.46,96.83,Sell,1797,326776821,Producer Manufacturing
+PLUG,"Plug Power, Inc.",27.19,28.83,30.245,75.49,1565,Buy,17187203,15616723843,Electronic Technology
+PLUS,ePlus inc.,106.05,109.756,110.51,110.51,110.51,Buy,21875,1432614707,Technology Services
+PLXS,Plexus Corp.,92.76,94.43,94.43,101.1726,101.1726,Buy,45828,2620499784,Electronic Technology
+PMD,Psychemedics Corporation,8.39,8.6,8.6,8.6,41.74741,Buy,12654,46499329,Health Services
+PPIH,"Perma-Pipe International Holdings, Inc.",8.63,8.85,8.85,8.85,31.59,Buy,20986,70286203,Producer Manufacturing
+PPSI,"Pioneer Power Solutions, Inc.",3.23,3.92,5.2999,11.5,17,Sell,37084,28185124,Producer Manufacturing
+PRGO,Perrigo Company plc,45.93,50.8994,50.8994,50.8994,215.73,Buy,2071761,6141520011,Health Technology
+PRGS,Progress Software Corporation,49.08,53.86,53.86,53.86,53.86,Buy,126538,2151791980,Technology Services
+PRO,"PROS Holdings, Inc.",34.13,41.52,46.48,51.8325,75.395,Strong Sell,343148,1514645217,Technology Services
+PRPO,"Precipio, Inc.",2.55,3.29,4.17,9.18,162246.4323,Sell,145036,57905886,Health Technology
+PRT,PermRock Royalty Trust Trust,6.9,7,7.25,7.38,16.69,Strong Buy,24748,83945404,Energy Minerals
+PRTG,Portage Biotech Inc.,20.39,21.94,22.82,44.9763,9239.076,Buy,9860,271721473,Health Technology
+PRVA,"Privia Health Group, Inc.",21.32,29.785,47.77,50.77,50.77,Sell,196172,2254439834,Technology Services
+PSB,"PS Business Parks, Inc. (MD)",166.15,166.79,166.79,166.79,192.13,Strong Buy,82069,4576196589,Finance
+PSN,Parsons Corporation,34.8,36.45,40.74,45.01,45.4,Neutral,224055,3567096830,Technology Services
+PSNL,"Personalis, Inc.",18.66,23.04,24.1,53.46,53.46,Sell,396126,828736930,Health Technology
+PSO,"Pearson, Plc",10.13,10.61,12.36,12.385,30.5625,Neutral,144243,7618977499,Consumer Services
+PTON,"Peloton Interactive, Inc.",86.11,118.61,127.57,171.09,171.09,Sell,4132253,25875827363,Consumer Services
+PUBM,"PubMatic, Inc.",23.54,29.55,35.6412,76.9581,76.9581,Sell,596766,1185478872,Technology Services
+PUMP,ProPetro Holding Corp.,9.96,10.32,10.32,13.99,25.38,Buy,693301,1028469321,Industrial Services
+PVG,"Pretium Resources, Inc.",10.38,10.5899,10.5899,13.66,18.42999,Buy,700736,1950381833,Non-Energy Minerals
+PXD,Pioneer Natural Resources Company,193.08,194.08,194.08,194.08,234.6,Strong Buy,3814112,47103612934,Energy Minerals
+PXLW,"Pixelworks, Inc.",4.35,5.87,7.9,7.9,155.25,Sell,693899,228088849,Electronic Technology
+QADA,QAD Inc.,87.47,87.545,89.01,89.01,89.01,Strong Buy,444112,1837212864,Technology Services
+QCOM,QUALCOMM Incorporated,126.55,146,152.28,167.94,167.94,Strong Sell,6920009,1.42748E+11,Electronic Technology
+QDEL,Quidel Corporation,138.04,158.1,158.1,288.6999,306.7236,Neutral,863342,5746985786,Health Technology
+QLI,Qilian International Holding Group Ltd.,4.04,4.16,4.5,22,22,Neutral,13286,144429999,Health Technology
+QNST,"QuinStreet, Inc.",17.72,19.02,20.995,25.99,25.99,Sell,133477,959094692,Commercial Services
+QRHC,Quest Resource Holding Corporation,6.29,6.45,7.71,7.72,49.84,Buy,100857,118258449,Industrial Services
+QTRX,Quanterix Corporation,43.65,53.8492,60.37,92.57,92.57,Strong Sell,374480,1594221960,Health Technology
+QUOT,Quotient Technology Inc.,5.91,6.82,11.21,17.93,33,Sell,913856,556207900,Commercial Services
+QURE,uniQure N.V.,30.45,38.8,38.8,52.19,82.49,Sell,279444,1404313580,Health Technology
+RAAS,Cloopen Group Holding Limited,4.29,5.47,6.6418,59,59,Sell,372294,705148040,Technology Services
+RAMP,"LiveRamp Holdings, Inc.",48.5,51.52,51.99,87.38,87.38,Buy,162417,3294226109,Technology Services
+RAPT,"RAPT Therapeutics, Inc.",30.89,40.67,40.67,43.26,51.2095,Neutral,164970,910895641,Health Technology
+RARE,Ultragenyx Pharmaceutical Inc.,81.64,104.31,104.38,179.647,179.647,Strong Sell,350073,5538135862,Health Technology
+RAVN,"Raven Industries, Inc.",57.8,58.25,59.595,59.595,59.595,Buy,362312,2076039384,Producer Manufacturing
+RBLX,Roblox Corporation,70.44,90.43,90.95,103.8661,103.8661,Strong Sell,11768309,40513704157,Technology Services
+RCEL,"Avita Therapeutics, Inc.",17.12,19.88,21.21,28.49,55.35,Sell,26307,425310000,Health Technology
+RCMT,"RCM Technologies, Inc.",6.2,8.3,8.3,12.49,35.625,Neutral,76375,68537464,Industrial Services
+RDFN,Redfin Corporation,48.33,55.87,63.64,98.445,98.445,Strong Sell,805073,5070417556,Finance
+RDVT,"Red Violet, Inc.",28.46,32.99,33.7,33.7,46.4,Buy,4081,363588311,Technology Services
+RDY,Dr. Reddy's Laboratories Ltd,64.32,67.76,74.65,75.5,75.5,Strong Sell,171421,10777029893,Health Technology
+REAL,"The RealReal, Inc.",11.69,14.75,18.65,30.22,30.22,Sell,3461276,1070424629,Retail Trade
+REED,"Reeds, Inc.",0.6246,0.7776,0.95,1.68,10.9,Neutral,753187,58504941,Consumer Non-Durables
+REFR,Research Frontiers Incorporated,2.4053,3.18,3.18,5.66,40,Sell,53175,76128695,Electronic Technology
+REGI,"Renewable Energy Group, Inc.",53.65,55.89,67.8,117,117,Buy,683036,2695111339,Process Industries
+REGN,"Regeneron Pharmaceuticals, Inc.",550.02,672.88,686.62,686.62,686.62,Sell,532467,58827598638,Health Technology
+REPL,"Replimune Group, Inc.",30.97,33.97,36.97,54.85,54.85,Sell,162902,1448536940,Health Technology
+RERE,AiHuiShou International Co. Ltd.,9.12,10.6,14.936,18.49,18.49,Sell,175533,2027252164,Retail Trade
+RES,"RPC, Inc.",5.45,5.66,5.66,7.43,27.07,Strong Buy,1137253,1175703571,Industrial Services
+RESN,Resonant Inc.,2.35,2.88,3.2699,8.33,19.86,Strong Sell,650002,148106937,Electronic Technology
+RETA,"Reata Pharmaceuticals, Inc.",98.99,114,142.3,186.8165,257.965,Sell,98828,3602127814,Health Technology
+REVG,"REV Group, Inc.",16.14,18.35,18.35,22.23,33.15,Sell,188734,1045022847,Consumer Durables
+REXR,"Rexford Industrial Realty, Inc.",57.8,62.665,63.55,63.55,63.55,Sell,1015299,8341443191,Finance
+RGLD,"Royal Gold, Inc.",94.07,111.32,122.61,129.69,147.64,Strong Sell,363078,6174499940,Non-Energy Minerals
+RGNX,REGENXBIO Inc.,31.67,46.46,46.46,50.26,85.1,Sell,334899,1349158748,Health Technology
+RHI,Robert Half International Inc.,109.1,109.54,109.54,109.54,109.54,Strong Buy,706211,12215931124,Commercial Services
+RIBT,RiceBran Technologies,0.5525,0.7398,1.2,1.83,200000,Sell,236454,25131905,Consumer Non-Durables
+RIDE,Lordstown Motors Corp.,4.89,8.93,9.35,31.5678,31.8,Sell,8420322,882904190,Consumer Durables
+RIGL,"Rigel Pharmaceuticals, Inc.",3.44,4.07,4.37,5.5,114.75,Sell,1181239,587725081,Health Technology
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",7.5,9,9,9,24.476166,Sell,16705,45932161,Consumer Non-Durables
+RMD,ResMed Inc.,253.9,301.34,301.34,301.34,301.34,Sell,547848,36996075878,Health Technology
+RMO,"Romeo Power, Inc.",4.64,5.72,7.72,38.8999,38.8999,Sell,1591589,622022724,Producer Manufacturing
+RNA,"Avidity Biosciences, Inc.",22.93,24.98,26.8829,36.02,37.46,Neutral,101348,1045957950,Health Technology
+RNG,"RingCentral, Inc.",225.94,236.14,298.08,449,449,Neutral,1543425,20675771220,Technology Services
+ROAD,"Construction Partners, Inc.",33.77,35.11,35.11,36.575,36.575,Buy,51420,1765916969,Industrial Services
+ROCK,"Gibraltar Industries, Inc.",72.37,72.53,77.7293,103.02,103.02,Buy,67849,2361892095,Producer Manufacturing
+ROG,Rogers Corporation,185.51,199.465,215.02,215.02,215.02,Sell,32070,3474443242,Process Industries
+ROK,"Rockwell Automation, Inc.",301.33,320.01,327.2,327.2,327.2,Sell,364503,34962028255,Producer Manufacturing
+ROL,"Rollins, Inc.",36.69,39.59,40.11,43.000022,43.000022,Sell,652235,18054388279,Consumer Services
+ROP,"Roper Technologies, Inc.",451.59,486.48,499.21,499.21,499.21,Sell,306414,47608353048,Technology Services
+ROST,"Ross Stores, Inc.",107.87,118.63,127.34,134.215,134.215,Sell,1549544,38333327814,Retail Trade
+RPAY,Repay Holdings Corporation,22.57,24.53,25.75,28.42,28.42,Strong Sell,193893,2223601861,Commercial Services
+RPID,"Rapid Micro Biosystems, Inc.",18.45,22.15,27.04,27.04,27.04,Neutral,123155,757963253,Producer Manufacturing
+RPM,RPM International Inc.,79.02,82.51,90.505,99.3,99.3,Strong Sell,712069,10250134040,Process Industries
+RS,Reliance Steel & Aluminum Co.,141.65,150.89,160.105,181.205,181.205,Sell,186839,8992394363,Non-Energy Minerals
+RSG,"Republic Services, Inc.",125.64,126.25,126.25,126.25,126.25,Strong Buy,656945,39999358008,Industrial Services
+RSSS,"Research Solutions, Inc",2.71,2.78,3.14,3.26,4,Buy,11675,71948116,Commercial Services
+RVLV,"Revolve Group, Inc.",68.95,72.265,74.82,74.82,74.82,Buy,661080,5017083143,Retail Trade
+RVMD,"Revolution Medicines, Inc.",27.78,32.78,33.2,56.18,56.18,Sell,175890,2044081326,Health Technology
+RVNC,"Revance Therapeutics, Inc.",26.83,30,33.205,33.83,42.41,Sell,193476,1927191370,Health Technology
+RXRX,"Recursion Pharmaceuticals, Inc.",18.68,29.4,42.81,42.81,42.81,Sell,561129,3147270556,Health Technology
+S,"SentinelOne, Inc.",54.65,72.95,73.47,73.47,73.47,Sell,1310109,14476058012,Technology Services
+SAFM,"Sanderson Farms, Inc.",188.4,192.72,197.25,197.25,197.25,Buy,79030,4206690842,Consumer Non-Durables
+SAIL,"SailPoint Technologies Holdings, Inc.",44.16,48.32,51.6905,64.19,64.19,Strong Sell,427549,4104320113,Technology Services
+SANM,Sanmina Corporation,39.51,40.33,40.33,43.36,363,Buy,265952,2571900375,Electronic Technology
+SBR,Sabine Royalty Trust,44.77,44.85,44.85,44.85,70.75,Strong Buy,66395,652717271,Energy Minerals
+SBTX,"Silverback Therapeutics, Inc.",9.64,22.12,35.63,63.41,63.41,Sell,307877,337751642,Health Technology
+SBUX,Starbucks Corporation,111.22,120.76,126.32,126.32,126.32,Strong Sell,3786964,1.3114E+11,Consumer Services
+SCCO,Southern Copper Corporation,58.6,63.33,67.75,83.29,83.29,Sell,990139,45302559355,Non-Energy Minerals
+SCHN,"Schnitzer Steel Industries, Inc.",48.42,48.75,56.57,59.3449,118.55,Buy,164872,1332692145,Non-Energy Minerals
+SCL,Stepan Company,118.69,119.405,121.39,139.3,139.3,Neutral,21393,2666473248,Process Industries
+SCVL,"Shoe Carnival, Inc.",32.59,35.63,42.83,42.83,42.83,Sell,186196,920291060,Retail Trade
+SCWX,SecureWorks Corp.,23.21,26.8899,26.8899,26.8899,26.8899,Strong Buy,152947,1980954882,Technology Services
+SDC,"SmileDirectClub, Inc.",6.6,7.42,7.78,16.0799,21.1,Buy,24622732,2561546822,Health Services
+SDPI,"Superior Drilling Products, Inc.",1.43,2.38,2.38,2.38,7.7,Buy,5892047,36840148,Industrial Services
+SEED,Origin Agritech Limited,10.03,11.7,14.4,28.28,183.5001,Buy,635179,57041941,Process Industries
+SEER,"Seer, Inc.",32.57,44.42,45.85,86.55,86.55,Sell,199743,2001572420,Health Technology
+SENEA,Seneca Foods Corp.,53.12,54.2055,56.65,62.37,62.37,Buy,23318,474228611,Consumer Non-Durables
+SFE,"Safeguard Scientifics, Inc. New",8.18,8.98,8.98,8.98,593.99406,Sell,135329,134901262,Finance
+SFIX,"Stitch Fix, Inc.",34.46,44.65,62.38,113.7594,113.7594,Strong Sell,2453220,3746903627,Retail Trade
+SGFY,"Signify Health, Inc.",18.05,25.25,30.89,40.79,40.79,Sell,1648853,4078246024,Technology Services
+SGTX,"Sigilon Therapeutics, Inc.",5.19,6.56,6.98,54.3167,54.3167,Sell,43680,166377154,Health Technology
+SHC,Sotera Health Company,25.69,26.865,26.865,30.38,30.38,Buy,422182,7268135328,Health Technology
+SHLS,"Shoals Technologies Group, Inc.",27.48,33.9868,36.2,44.04,44.04,Sell,676697,4864351621,Electronic Technology
+SHOO,"Steven Madden, Ltd.",41.6,43.105,45.265,45.87,45.87,Strong Buy,318787,3408963596,Consumer Non-Durables
+SHYF,"The Shyft Group, Inc.",40.49,43.42,45.0781,45.0781,45.0781,Neutral,86041,1431332310,Producer Manufacturing
+SIBN,"SI-BONE, Inc.",21.62,24.69,31.54,37.21,37.21,Sell,329419,719319458,Health Technology
+SIEN,"Sientra, Inc.",5.68,6.587,8.932,9.14,26.79,Sell,342063,329423003,Health Technology
+SIFY,"Sify Technologies Limited - American Depository Shares, each represented by one",3.27,3.91,4.19,5.89,452,Sell,65766,586059861,Technology Services
+SIGA,SIGA Technologies Inc.,7.12,7.7,7.7,7.85,8.47,Buy,172761,534545866,Health Technology
+SILK,"Silk Road Medical, Inc.",56.53,65.08,67.49,75.8,75.8,Buy,464589,1960674942,Health Technology
+SIMO,Silicon Motion Technology Corporation,67.1,77.57,81.87,81.87,81.87,Sell,252649,2333570197,Electronic Technology
+SITE,"SiteOne Landscape Supply, Inc.",205.85,212.12,212.12,212.12,212.12,Buy,121918,9170331782,Distribution Services
+SITM,SiTime Corporation,214.43,239.685,239.685,239.685,239.685,Buy,204161,4087204460,Electronic Technology
+SJT,San Juan Basin Royalty Trust,5.27,5.44,5.49,6.14,51.45,Buy,130428,245629435,Miscellaneous
+SKLZ,Skillz Inc.,8.05,12.011,17.9982,46.298,46.298,Strong Sell,23741971,3241868412,Technology Services
+SKX,"Skechers U.S.A., Inc.",41.97,47.59,55.87,55.87,55.87,Sell,1258904,6540714132,Consumer Non-Durables
+SKY,Skyline Champion Corporation,61.01,65.25,66.82,66.82,188,Neutral,168831,3462770074,Consumer Durables
+SLAB,"Silicon Laboratories, Inc.",138.84,148.6,160.89,163.43,163.43,Sell,176984,6215045769,Electronic Technology
+SLNG,"Stabilis Solutions, Inc.",6.8902,7.67,9.72,10.47,930,Neutral,5532,120564099,Energy Minerals
+SLNO,"Soleno Therapeutics, Inc.",0.8404,0.9699,1.06,3.3599,49.5,Strong Sell,197234,67029650,Health Technology
+SLP,"Simulations Plus, Inc.",37.1,46.2,55.38,90.92,90.92,Strong Sell,95712,746930780,Technology Services
+SMAR,Smartsheet Inc.,65.16,77.245,85.65,85.65,85.65,Sell,984957,8208009871,Technology Services
+SMCI,"Super Micro Computer, Inc.",36.88,38.75,39.63,40.7098,42,Neutral,51223,1865776423,Electronic Technology
+SMMT,Summit Therapeutics Inc.,4.98,6.87,8.385,12.3007,19.75,Sell,79919,484961000,Health Technology
+SMP,"Standard Motor Products, Inc.",46.44,46.725,46.725,55.29,56.54,Buy,60428,1031926057,Consumer Durables
+SMPL,The Simply Good Foods Company,35.49,36.87,38.05,38.5,38.5,Buy,163225,3399232588,Consumer Non-Durables
+SNAP,Snap Inc.,75,83.34,83.34,83.34,83.34,Buy,8909211,1.18583E+11,Technology Services
+SNBR,Sleep Number Corporation,91.59,105.98,116,151.4399,151.4399,Sell,300465,2163538870,Consumer Durables
+SNCR,"Synchronoss Technologies, Inc.",2.29,2.66,3.2701,6.59,54.05,Strong Sell,507933,201779970,Technology Services
+SNDR,"Schneider National, Inc.",22.85,24.0512,24.0512,27.15,30.52,Neutral,995932,4059398245,Transportation
+SNN,"Smith & Nephew SNATS, Inc.",34.2,37.91,44.2,46.1,52.26,Sell,314840,15008640928,Health Technology
+SNOW,Snowflake Inc.,313.52,328.06,328.06,429,429,Buy,1793165,94338162781,Technology Services
+SNPS,"Synopsys, Inc.",291.66,336.85,340.66,340.66,340.66,Sell,635044,44478951627,Technology Services
+SNX,Synnex Corporation,105.3,123.35,130.93,130.93,130.93,Sell,247871,10109662315,Distribution Services
+SNY,Sanofi,49.01,49.4634,53.27,54.26,57.42,Neutral,1059318,1.22257E+11,Health Technology
+SOI,"Solaris Oilfield Infrastructure, Inc.",8.44,8.69,9.8318,15.075,23.98,Buy,81722,385551976,Industrial Services
+SON,Sonoco Products Company,60.79,64.21,67.66,69.83,69.83,Sell,166710,5977170161,Process Industries
+SONM,"Sonim Technologies, Inc.",2.07,7.346,7.346,17,182.575,Sell,2710132,17628366,Electronic Technology
+SONO,"Sonos, Inc.",30.51,38.77,42.57,44.72,44.72,Strong Sell,1933230,3837281499,Electronic Technology
+SPLK,Splunk Inc.,150.9,157.11,160,222.19,225.8944,Strong Buy,1203004,24377258970,Technology Services
+SPNE,SeaSpine Holdings Corporation,15.43,17.1,20.5,22.97,26,Strong Sell,76795,561627195,Health Technology
+SPSC,"SPS Commerce, Inc.",159.46,169.15,169.15,169.15,169.15,Buy,127895,5713714506,Technology Services
+SPT,"Sprout Social, Inc",112.04,145.42,145.42,145.42,145.42,Sell,527269,6033233508,Technology Services
+SPWH,"Sportsman's Warehouse Holdings, Inc.",17.74,17.895,17.96,18.08,18.46,Strong Buy,230170,778293969,Retail Trade
+SPWR,SunPower Corporation,23.96,25.47,29.36,57.5199,107.697367,Buy,2179982,4141612486,Producer Manufacturing
+SPXC,SPX Corporation,58.75,59.97,67.66,67.66,67.66,Neutral,109580,2662392654,Producer Manufacturing
+SQSP,"Squarespace, Inc.",34.74,47.969,59.3699,64.71,64.71,Sell,158017,4811307014,Technology Services
+SRCL,"Stericycle, Inc.",67.89,72.11,72.11,79.97,151.57,Sell,162002,6235983290,Industrial Services
+SRDX,"Surmodics, Inc.",54.74,59.86,62.27,62.27,82.35,Sell,22495,759353289,Health Technology
+SREV,"ServiceSource International, Inc.",1.34,1.46,1.6279,2.18,23.599,Sell,91720,131153495,Technology Services
+SRI,"Stoneridge, Inc.",20.7,21.52,29.595,38.2,38.2,Neutral,55627,562285533,Producer Manufacturing
+SRNE,"Sorrento Therapeutics, Inc.",6.49,8.275,9.63,17.25,750,Sell,3082070,1966154026,Health Technology
+SRRK,Scholar Rock Holding Corporation,27.51,42.54,44.95,70,70,Strong Sell,106914,948011059,Health Technology
+SRTS,"Sensus Healthcare, Inc.",3.86,4.17,4.1999,6.09,9.23,Buy,77156,64151729,Health Technology
+SSD,"Simpson Manufacturing Company, Inc.",113.27,114.61,116.43,119.77,119.77,Buy,214996,4920409610,Producer Manufacturing
+SSKN,"Strata Skin Sciences, Inc.",1.92,1.95,1.95,2.84,612,Buy,38333,65313814,Health Technology
+SSRM,SSR Mining Inc.,15.15,16.39,17.63,21.8,48.16,Neutral,914907,3276926949,Non-Energy Minerals
+SSTI,"ShotSpotter, Inc.",34.66,38.02,51.5,53.97,66.14,Sell,23389,404765146,Electronic Technology
+SSTK,"Shutterstock, Inc.",118.67,120.39,120.39,120.39,120.39,Buy,194199,4346031555,Technology Services
+STAA,STAAR Surgical Company,115.95,159.88,163.08,163.08,163.08,Strong Sell,261612,5495528890,Health Technology
+STAB,"Statera Biopharma, Inc.",2.23,4.65,5.64,10.9718,279.8,Sell,54768,57199274,Health Technology
+STE,STERIS plc (Ireland),219.49,221.06,226,226,226,Strong Buy,614291,21896088976,Health Technology
+STEM,"Stem, Inc.",22.13,26.55,32.3,51.49,51.49,Sell,844933,2782947178,Producer Manufacturing
+STKL,"SunOpta, Inc.",8.59,9.8288,12.345,17.065,17.065,Sell,302771,921093031,Consumer Non-Durables
+STM,STMicroelectronics N.V.,41.4,47.38,47.38,47.38,73.874261,Sell,2354372,37572696908,Electronic Technology
+STN,Stantec Inc,48.73,52.36,52.36,52.36,52.36,Buy,72314,5411605695,Industrial Services
+STRA,"Strategic Education, Inc.",71.81,79.4,83.34,101.29,262.43994,Sell,66800,1767432413,Consumer Services
+STRM,"Streamline Health Solutions, Inc.",1.71,1.88,1.88,3.86,18.75,Sell,75674,81611908,Technology Services
+STRT,STRATTEC SECURITY CORPORATION,38.55,42.1,45.82,67.283,110.9599,Sell,11037,151880446,Producer Manufacturing
+SUI,"Sun Communities, Inc.",187.61,208.61,209.98,209.98,209.98,Sell,375835,21744607681,Finance
+SUMO,"Sumo Logic, Inc.",15.87,20.47,23.48,46.3699,46.3699,Sell,658329,1751561397,Technology Services
+SUPN,"Supernus Pharmaceuticals, Inc.",26.37,28.57,28.685,34.29,61.25,Strong Sell,263252,1401456944,Health Technology
+SVM,Silvercorp Metals Inc.,3.89,4.445,5.4,8.55,16.32001,Sell,716688,686017453,Non-Energy Minerals
+SWAV,"ShockWave Medical, Inc.",199.61,233.75,237.76,237.76,237.76,Sell,152794,7016359595,Health Technology
+SWCH,"Switch, Inc.",24.77,27.03,27.03,27.03,27.03,Sell,1528211,5987229906,Technology Services
+SWIM,"Latham Group, Inc.",13.1,20.99,30.73,34.73,34.73,Sell,196717,1577361499,Producer Manufacturing
+SWIR,"Sierra Wireless, Inc.",15.48,16.76,20.938,22.22,82,Sell,103303,575733405,Electronic Technology
+SWK,"Stanley Black & Decker, Inc.",177.28,192.84,210.92,225,225,Strong Sell,523187,28889914977,Consumer Durables
+SXI,Standex International Corporation,104.17,105.5,105.5,108.17,114.2,Buy,20598,1264191368,Producer Manufacturing
+SXT,Sensient Technologies Corporation,89.16,94.55,94.55,94.55,94.55,Sell,151532,3769667160,Distribution Services
+SYK,Stryker Corporation,263.68,281.16,281.16,281.16,281.16,Sell,669203,99432745129,Health Technology
+SYNA,Synaptics Incorporated,176.76,189.79,191.99,191.99,191.99,Sell,205866,6911874498,Electronic Technology
+TAL,TAL Education Group,4.76,5.59,22.795,90.96,90.96,Neutral,7279908,3069299478,Commercial Services
+TAOP,Taoping Inc.,2.58,3.15,4.78,16.8592,129.6,Sell,49819,38303608,Technology Services
+TARS,"Tarsus Pharmaceuticals, Inc.",24.58,25.3899,29.38,63.69,63.69,Buy,65166,505711482,Health Technology
+TBI,"TrueBlue, Inc.",31.38,31.51,31.51,31.51,31.51,Strong Buy,221549,1114098902,Commercial Services
+TCMD,"Tactile Systems Technology, Inc.",39.68,46.41,51,64.53,76.63,Strong Sell,300153,784961481,Health Technology
+TCX,Tucows Inc.,79,82.9,83.875,94.2,94.2,Buy,7055,842961122,Technology Services
+TDC,Teradata Corporation,55.18,58.62,58.62,59.5799,80.97,Buy,497010,6020137949,Technology Services
+TDOC,"Teladoc Health, Inc.",131.55,146.12,161.42,308,308,Sell,1847752,20949105140,Health Services
+TDUP,ThredUp Inc.,21.2,22.05,29.84,31.8599,31.8599,Buy,246892,2010015843,Retail Trade
+TEAM,Atlassian Corporation Plc,390.74,420.23,420.23,420.23,420.23,Buy,785914,98434208189,Technology Services
+TECH,Bio-Techne Corp,479.62,543.85,543.85,543.85,543.85,Sell,84841,18819478898,Health Technology
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares,145.67,148.1,153.535,153.535,153.535,Buy,1079655,47779310404,Electronic Technology
+TELL,Tellurian Inc.,3.43,4.27,4.59,5.76,134,Neutral,7952246,1614568694,Energy Minerals
+TENB,"Tenable Holdings, Inc.",48.32,49.33,49.33,58.4499,58.4499,Buy,339930,5149884460,Technology Services
+TENX,"Tenax Therapeutics, Inc.",1.75,1.9594,2.05,3.68,13500,Buy,39657,44102298,Health Technology
+TER,"Teradyne, Inc.",109.56,124.18,130.88,147.9,147.9,Strong Sell,967316,18074463999,Electronic Technology
+TFX,Teleflex Incorporated,362.91,400.75,424.35,449.375,449.375,Strong Sell,519872,16984600443,Health Technology
+TG,Tredegar Corporation,12.57,13.05,13.47,23.71,32.9375,Neutral,61234,423952375,Producer Manufacturing
+THO,"Thor Industries, Inc.",124.21,128.87,128.87,152.2,161.48,Strong Buy,362467,6877040800,Consumer Durables
+THR,"Thermon Group Holdings, Inc.",17.36,18.095,18.095,22.61,29.06,Buy,70160,578632626,Producer Manufacturing
+THRM,Gentherm Inc,87.01,87.24,88.9899,88.9899,88.9899,Strong Buy,85033,2884781995,Producer Manufacturing
+TIMB,TIM S.A.,10.94,11.91,12.08,14.85,69.25,Sell,495142,5313694213,Communications
+TJX,"TJX Companies, Inc. (The)",64.74,72.61,76.16,76.16,76.16,Sell,5352126,77852392143,Retail Trade
+TKNO,"Alpha Teknova, Inc.",25.07,28.64,28.64,30.89,30.89,Buy,52303,702258754,Health Technology
+TLK,"PT Telekomunikasi Indonesia, Tbk",26.53,26.72,26.72,27.46,36.19,Buy,141972,26350550188,Communications
+TMCI,"Treace Medical Concepts, Inc.",25.43,31.02,31.76,37.17,37.17,Sell,62327,1342238457,Health Technology
+TMDX,"TransMedics Group, Inc.",27.4,34.34,35.37,49.5,49.5,Strong Sell,264677,758351149,Health Technology
+TMO,Thermo Fisher Scientific Inc,583.92,616.93,616.93,616.93,616.93,Buy,851406,2.29725E+11,Health Technology
+TMST,TimkenSteel Corporation,13.8,14.18,17.35,17.35,50.83,Buy,442414,637244636,Non-Energy Minerals
+TMX,"Terminix Global Holdings, Inc.",39.94,46.17,53.33,55,58.78,Sell,815391,4979999686,Consumer Services
+TNC,Tennant Company,77.38,78.45,80.465,87.3998,87.3998,Buy,44703,1444630832,Producer Manufacturing
+TNDM,"Tandem Diabetes Care, Inc.",127.75,128.33,130.73,130.73,302.5,Strong Buy,515651,8052000473,Health Technology
+TOMZ,"TOMI Environmental Solutions, Inc.",1.205,2.47,2.79,10.458,72,Sell,387718,20257875,Producer Manufacturing
+TPIC,"TPI Composites, Inc.",31.59,37.25,46.77,81.36,81.36,Sell,442824,1176668819,Producer Manufacturing
+TPL,Texas Pacific Land Corporation,1213.44,1372.8699,1553,1773.95,1773.95,Sell,26904,9402805012,Miscellaneous
+TPR,"Tapestry, Inc.",37.36,41.5,45.03,49.665,79.7,Sell,2190138,10398050465,Retail Trade
+TPTX,"Turning Point Therapeutics, Inc.",47.76,81.78,82.2,141.3,141.3,Sell,1121779,2359724403,Health Technology
+TR,"Tootsie Roll Industries, Inc.",31.22,32.12,35.5,57.262149,57.262149,Sell,99487,2408625365,Consumer Non-Durables
+TRC,Tejon Ranch Co,18.17,19.35,19.59,19.59,61.858604,Buy,50744,478667984,Finance
+TREC,Trecora Resources,8.14,8.86,8.86,9.17,16.5,Sell,18655,198570453,Energy Minerals
+TREX,"Trex Company, Inc.",104.33,114.61,114.61,114.61,114.61,Sell,268255,12033913146,Non-Energy Minerals
+TRIP,"TripAdvisor, Inc.",36.03,37.6,39.41,64.95,111.24,Buy,1084167,4950747424,Consumer Services
+TRMB,Trimble Inc.,81.93,94.83,96.4874,96.4874,96.4874,Sell,637904,20615217526,Electronic Technology
+TRNO,Terreno Realty Corporation,65.51,68.835,69.63,69.63,69.63,Buy,166867,4619996039,Finance
+TRNS,"Transcat, Inc.",69.12,69.9099,69.9099,69.9099,69.9099,Buy,12869,516316518,Electronic Technology
+TS,Tenaris S.A.,22.2,22.3,22.3,24.15,75.42999,Strong Buy,1801060,13075117569,Non-Energy Minerals
+TSCO,Tractor Supply Company,194.72,213.68,213.68,213.68,213.68,Sell,676140,22263961852,Retail Trade
+TSLA,"Tesla, Inc.",785.49,806.9699,806.9699,900.4,900.4,Buy,16738356,7.77647E+11,Consumer Durables
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,110.04,124.335,125.78,142.195,142.195,Sell,5143409,5.32748E+11,Electronic Technology
+TSP,TuSimple Holdings Inc.,38.45,43.63,56.88,79.8391,79.8391,Buy,788653,8037603156,Consumer Durables
+TT,Trane Technologies plc,172.02,194.8799,207.06,207.06,207.06,Strong Sell,1177642,40873450211,Producer Manufacturing
+TTC,Toro Company (The),98.07,108.39,115.68,118.13,118.13,Sell,261251,10439028914,Producer Manufacturing
+TTCF,"Tattooed Chef, Inc.",17.99,21.6945,25.3499,27.8,28.64,Sell,789695,1474326269,Consumer Non-Durables
+TTD,"The Trade Desk, Inc.",71,77.23,90,97.28,97.28,Sell,3481883,33986021152,Commercial Services
+TTEC,"TTEC Holdings, Inc.",92.17,108.9,113.37,113.37,113.37,Strong Sell,66598,4330637658,Technology Services
+TTEK,"Tetra Tech, Inc.",157.96,160.61,160.61,160.61,160.61,Buy,298046,8541084311,Industrial Services
+TTGT,"TechTarget, Inc.",83.11,91.49,92.755,101.12,101.12,Sell,75418,2340298028,Technology Services
+TTOO,"T2 Biosystems, Inc.",0.8521,1.12,1.23,3.79,24.5,Sell,1236457,141317165,Health Technology
+TTWO,"Take-Two Interactive Software, Inc.",173.69,175.55,176.82,214.91,214.91,Buy,1824816,20238068294,Consumer Durables
+TUYA,Tuya Inc.,8.6,12.829,21.58,27.65,27.65,Sell,463541,4816000214,Technology Services
+TWLO,Twilio Inc.,320.6,357.7,412.68,457.3,457.3,Sell,1450377,56794213319,Technology Services
+TWST,Twist Bioscience Corporation,98.55,123.66,131.4,214.07,214.07,Sell,304261,4857730116,Health Technology
+TWTR,"Twitter, Inc.",63.68,67.45,73.34,80.75,80.75,Buy,8098840,50814510322,Technology Services
+TX,Ternium S.A. Ternium S.A.,42.13,54.3299,56.86,56.86,56.86,Sell,297289,8270442667,Non-Energy Minerals
+TXG,"10x Genomics, Inc.",155.33,187.66,192.92,208.99,208.99,Neutral,1127694,17223867345,Health Technology
+TXN,Texas Instruments Incorporated,195.24,200.92,200.92,200.92,200.92,Buy,2574223,1.80248E+11,Electronic Technology
+TYL,"Tyler Technologies, Inc.",475.91,485.69,498.98,498.98,498.98,Strong Buy,106279,19437785821,Technology Services
+UA,"Under Armour, Inc.",17.75,20.27,22.16,22.16,46.201964,Strong Sell,2185515,8912064353,Consumer Non-Durables
+UAA,"Under Armour, Inc.",20.44,23.52,26.02,26.45,52.945,Strong Sell,4241158,8912064353,Consumer Non-Durables
+UAVS,"AgEagle Aerial Systems, Inc.",2.85,3.5899,4.62,17.6799,217.5,Sell,1187295,214165234,Electronic Technology
+UBER,"Uber Technologies, Inc.",47.77,48.88,49.29,64.05,64.05,Buy,17980417,90015253414,Technology Services
+UEC,Uranium Energy Corp.,2.9,3.77,3.77,3.77,9.35,Neutral,5308776,676420376,Non-Energy Minerals
+UEIC,Universal Electronics Inc.,48.36,51.75,53.07,65.02,80.42,Strong Sell,43619,652064674,Consumer Durables
+UFI,"Unifi, Inc. New",22.91,23.5,24.98,30.94,130.875,Buy,24088,424240815,Process Industries
+UFPI,"UFP Industries, Inc.",72.14,73.5,78.53,89.97,89.97,Buy,144234,4461911964,Non-Energy Minerals
+UFPT,"UFP Technologies, Inc.",64.26,69.11,71.1722,71.1722,71.1722,Buy,7434,483968038,Process Industries
+UG,"United-Guardian, Inc.",14.49,15.09,16.03,18.99,35.25,Sell,2865,66567057,Consumer Non-Durables
+UI,Ubiquiti Inc.,308.44,320,344.77,401.805,401.805,Buy,23447,19277297776,Electronic Technology
+UL,Unilever PLC,52.64,55.82,60.255,63.89,64.84,Sell,1992703,1.35518E+11,Consumer Non-Durables
+ULCC,"Frontier Group Holdings, Inc.",16.6,17.5,17.5,22.7,22.7,Buy,157524,3576419879,Transportation
+ULTA,"Ulta Beauty, Inc.",378.37,387.96,414.98,414.98,414.98,Buy,699644,20567272297,Retail Trade
+UMC,United Microelectronics Corporation (NEW),10.75,12.54,12.615,12.615,12.671941,Sell,6292923,27122033236,Electronic Technology
+UNF,Unifirst Corporation,222.95,227.88,232.75,258.86,258.86,Buy,18182,4048173688,Consumer Services
+UNP,Union Pacific Corporation,216.48,216.72,228.57,231.26,231.26,Strong Buy,3352167,1.41172E+11,Transportation
+UPC,Universe Pharmaceuticals Inc,2.45,2.77,5,11.99,11.99,Buy,99602,53287501,Health Technology
+UPS,"United Parcel Service, Inc.",183.49,196.25,214.71,219.59,219.59,Sell,2781719,1.59828E+11,Transportation
+UPWK,Upwork Inc.,54.1,54.4,64.4899,64.4899,64.4899,Strong Buy,1700897,6904068186,Technology Services
+URBN,"Urban Outfitters, Inc.",29.69,33.96,41.03,42.1,52.5,Sell,1193551,2920423088,Retail Trade
+USIO,"Usio, Inc.",5.99,6.68,6.68,8.19,674.6625,Neutral,33871,149324767,Commercial Services
+USLM,"United States Lime & Minerals, Inc.",117.65,141.11,153.79,156,156,Sell,1929,665720313,Non-Energy Minerals
+USNA,"USANA Health Sciences, Inc.",95.71,99.91,103,107.85,137.95,Buy,68223,1915374706,Consumer Non-Durables
+USPH,"U.S. Physical Therapy, Inc.",107.75,120.22,123.3815,143.67,148.48,Sell,21691,1390721910,Health Services
+UTHR,United Therapeutics Corporation,195.38,213.38,216.9,216.9,216.9,Buy,478065,8770986175,Health Technology
+UTMD,"Utah Medical Products, Inc.",91.38,97.7917,97.7917,97.7917,117.65,Buy,3649,333227301,Health Technology
+UTZ,Utz Brands Inc,15.57,20.07,23.79,30.09,30.09,Strong Sell,621500,2131834604,Consumer Non-Durables
+UUUU,Energy Fuels Inc,6.35,8.39,8.39,8.39,240.612,Neutral,2663722,944109050.5,Non-Energy Minerals
+VACC,Vaccitech plc,14.33,16.5,16.5,17.99,17.99,Strong Sell,20247,491923548,Health Technology
+VALE,VALE S.A.,14.57,18.45,23.145,23.175,44.14999,Sell,28083160,70690266069,Non-Energy Minerals
+VAPO,"Vapotherm, Inc.",20.62,29.95,31.87,38.46,54.42,Strong Sell,117378,536261962,Health Technology
+VC,Visteon Corporation,102.5,103.92,120.09,147.55,147.55,Buy,204881,2868393159,Producer Manufacturing
+VCRA,"Vocera Communications, Inc.",46.07,48.66,50.42,55.6,55.6,Buy,269853,1599311084,Electronic Technology
+VCYT,"Veracyte, Inc.",41.53,52.14,53.3,86.03,86.03,Sell,299183,2942561626,Health Technology
+VEEV,Veeva Systems Inc.,286.5,310.83,343.96,343.96,343.96,Sell,798338,43955023591,Technology Services
+VERI,"Veritone, Inc.",22.92,26.16,26.16,50.3393,74.9199,Buy,199689,792557819,Technology Services
+VERU,Veru Inc.,8.45,9.685,10.24,24.57,27,Sell,292823,674764190,Health Technology
+VERX,"Vertex, Inc.",19.07,20.7,22.88,39.71,39.71,Sell,107495,2821980106,Technology Services
+VFC,V.F. Corporation,68,72.93,84.96,90.79,100.25,Sell,2841654,26699425537,Consumer Non-Durables
+VG,Vonage Holdings Corp.,15.65,16.65,16.65,16.65,17.25,Neutral,902615,3941524139,Communications
+VIAO,VIA optronics AG,7.9281,9,11.95,15.5697,15.5697,Sell,2154,179599253,Electronic Technology
+VIAV,Viavi Solutions Inc.,15.28,16.57,17.49,18.1399,697.8081,Sell,629025,3659685606,Technology Services
+VICR,Vicor Corporation,139.35,146.65,146.65,146.65,146.65,Buy,70905,6075353226,Electronic Technology
+VIPS,Vipshop Holdings Limited,11.3,15.3806,19.9,46,46,Sell,6913077,7641160924,Retail Trade
+VIR,"Vir Biotechnology, Inc.",37.03,54.6,54.6,141.01,141.01,Sell,746872,4836554837,Health Technology
+VITL,"Vital Farms, Inc.",17.79,18.95,20,40.88,43.2999,Neutral,189337,710980104,Process Industries
+VIVO,Meridian Bioscience Inc.,18.73,20.75,22.76,30.65,37,Sell,343536,812015543,Health Technology
+VMAR,Vision Marine Technologies Inc.,6.76,7.35,8.78,17.9,17.9,Neutral,11557,56092299,Consumer Durables
+VMC,Vulcan Materials Company (Holding Company),175.44,180.87,193.96,194.17,194.17,Buy,658439,23277075738,Non-Energy Minerals
+VMEO,"Vimeo, Inc.",27.1,40.89,51.63,58,58,Strong Sell,995274,4461393076,Technology Services
+VMI,"Valmont Industries, Inc.",241.48,250.69,251.83,265.09,265.09,Strong Buy,52258,5122572564,Producer Manufacturing
+VMW,"Vmware, Inc.",147.83,154.82,160,172,206.799,Sell,1809874,61904120025,Technology Services
+VNE,"Veoneer, Inc.",35.8,36.3,40.46,40.46,57.93,Buy,2745062,4008820395,Producer Manufacturing
+VOXX,VOXX International Corporation,11.05,12.61,14.59,27.7799,72.5,Strong Sell,122734,265073843,Electronic Technology
+VPG,"Vishay Precision Group, Inc.",35.26,37.1638,39.71,39.71,45,Sell,16528,480440100,Electronic Technology
+VRA,"Vera Bradley, Inc.",9.59,10.89,12.22,13.62,52.355,Sell,188169,326264540,Consumer Non-Durables
+VRAR,"The Glimpse Group, Inc.",7.31,9.7469,11.47,18.45,18.45,Strong Sell,58341,75231869,Technology Services
+VRM,"Vroom, Inc.",21.3,27.43,41.96,53.3294,75.49,Sell,880774,2912020867,Retail Trade
+VRNS,"Varonis Systems, Inc.",59.1,72.305,73.46,75.333258,75.333258,Sell,618973,6318776490,Technology Services
+VRNT,Verint Systems Inc.,45.91,46.295,46.295,52.7,52.7,Buy,346331,3003059423,Technology Services
+VRSN,"VeriSign, Inc.",205.94,225.24,234.56,234.56,258.5,Strong Sell,389160,23039421505,Technology Services
+VRTX,Vertex Pharmaceuticals Incorporated,178.94,193.25,204.88,280.99,306.08,Sell,1157949,46422119560,Health Technology
+VSCO,Victorias Secret & Co.,52.1,64.07,76,76,76,Sell,633075,4603343637,Retail Trade
+VSH,"Vishay Intertechnology, Inc.",20.16,21.42,22.93,26.5,56.373586,Strong Sell,663724,2919332244,Electronic Technology
+VTEX,VTEX,18.47,25.0679,33.36,33.36,33.36,Sell,290180,3511305411,Technology Services
+VTNR,"Vertex Energy, Inc",5.22,7.1,10.66,14.32,7124.88125,Sell,795283,319962267,Industrial Services
+VTVT,vTv Therapeutics Inc.,1.61,2.17,2.27,4.75,14,Sell,735733,134093988,Health Technology
+VUZI,Vuzix Corporation,9.92,12.3,17.06,32.43,32.43,Sell,680396,630748551,Electronic Technology
+VVOS,"Vivos Therapeutics, Inc.",3.76,5.8387,7.09,14.41,14.41,Sell,116386,85773565,Commercial Services
+VWTR,"Vidler Water Resources, Inc.",11.66,13.04,15.75,16.28,56.875,Neutral,100219,213842375,Producer Manufacturing
+VZIO,VIZIO Holding Corp.,20.81,21.59,28.24,28.8,28.8,Buy,609011,3845459808,Technology Services
+W,Wayfair Inc.,242.17,291.6,317.45,369,369,Sell,739718,25161657694,Retail Trade
+WAB,Westinghouse Air Brake Technologies Corporation,89.67,91,91.12,91.12,115.4,Buy,638076,16947421679,Producer Manufacturing
+WAT,Waters Corporation,343.4,426.9643,428.22,428.22,428.22,Sell,447196,21072191016,Health Technology
+WATT,Energous Corporation,2,2.42,2.95,7.69,33.5,Sell,599119,125749252,Electronic Technology
+WB,Weibo Corporation,48.56,55.27,63.94,64.7,142.12,Neutral,879830,11056509343,Technology Services
+WCN,"Waste Connections, Inc.",128.37,133.475,133.475,133.475,133.475,Buy,395069,33442684979,Industrial Services
+WDAY,"Workday, Inc.",255.9,274.98,278.23,282.77,282.77,Sell,941090,62951398499,Technology Services
+WDFC,WD-40 Company,232.21,237.41,259.87,333.415,333.415,Sell,57120,3183080559,Process Industries
+WERN,"Werner Enterprises, Inc.",42.57,47.865,48.63,49.76,49.76,Strong Sell,632792,2891859989,Transportation
+WEYS,"Weyco Group, Inc.",22.65,23.82,25.4999,25.4999,41.99001,Sell,14812,220014379,Distribution Services
+WFCF,"Where Food Comes From, Inc.",13.475,14.28,15.5,16.5,16.5,Sell,514,82404938,Commercial Services
+WGO,"Winnebago Industries, Inc.",76.67,80.3,80.3,87.53,87.53,Buy,234086,2576072630,Consumer Durables
+WHD,"Cactus, Inc. Class A Common Stock",42.03,42.55,42.55,44.2,44.2,Strong Buy,692080,3181811672,Industrial Services
+WING,Wingstop Inc.,157.78,187.35,187.35,187.35,187.35,Sell,184020,4693242033,Consumer Services
+WIRE,Encore Wire Corporation,101.47,105.17,105.17,105.17,105.17,Buy,113296,2095294135,Producer Manufacturing
+WISH,ContextLogic Inc.,5.01,7.29,11.37,32.8499,32.8499,Sell,17697568,2890770132,Retail Trade
+WIT,Wipro Limited,8.82,9.7,9.801,9.801,9.801,Sell,4026212,48246582043,Technology Services
+WK,Workiva Inc.,135.94,156.48,156.48,156.48,156.48,Sell,205253,6855951800,Technology Services
+WLDN,"Willdan Group, Inc.",33.18,38.66,43,54.99,54.99,Sell,18241,423125946,Commercial Services
+WLL,Whiting Petroleum Corporation,62.21,63.4963,63.4963,63.4963,63.4963,Strong Buy,404885,2433527661,Energy Minerals
+WM,"Waste Management, Inc.",154.72,156.739,156.739,156.739,156.739,Strong Buy,1563389,65152432921,Industrial Services
+WMS,"Advanced Drainage Systems, Inc.",111.32,119.87,124.98,124.98,124.98,Neutral,273005,7854894329,Producer Manufacturing
+WNS,WNS (Holdings) Limited Sponsored,82.32,83.9899,84.55,84.55,84.55,Buy,159899,4001995840,Commercial Services
+WNW,Wunong Net Technology Company Limited,3.46,5.1399,6.82,160.68,160.68,Strong Sell,232817,86500001,Retail Trade
+WOR,"Worthington Industries, Inc.",52.39,59.96,65.6,75.45,75.45,Strong Sell,339020,2642446775,Non-Energy Minerals
+WORX,SCWorx Corp.,2.04,2.76,5,5,103.992358,Sell,147234,21954017,Technology Services
+WPM,Wheaton Precious Metals Corp,38.21,45.67,47.4141,51.43,57.89,Sell,2177372,17205145499,Non-Energy Minerals
+WPRT,Westport Fuel Systems Inc,3.3,3.78,5.18,12.95,50.19,Sell,785278,557282902.4,Producer Manufacturing
+WSM,"Williams-Sonoma, Inc.",171.02,195.09,204.41,204.41,204.41,Sell,632563,12717996196,Retail Trade
+WSO,"Watsco, Inc.",273.33,286.535,295.38,307.81,307.81,Sell,88088,10605039062,Producer Manufacturing
+WST,"West Pharmaceutical Services, Inc.",407.14,475.35,475.35,475.35,475.35,Sell,209704,30119846903,Health Technology
+WSTG,"Wayside Technology Group, Inc.",26.79,27.72,31.49,31.49,31.49,Sell,11783,117950137,Distribution Services
+WTS,"Watts Water Technologies, Inc.",177.85,178.41,178.41,178.41,178.41,Strong Buy,85687,5982991927,Producer Manufacturing
+WTT,"Wireless Telecom Group, Inc.",2.06,2.24,3.54,4.2,16.75,Sell,5653,45748471,Electronic Technology
+WTTR,"Select Energy Services, Inc.",5.96,6.045,6.37,7.58,21.96,Strong Buy,368479,643571562,Industrial Services
+WWW,"Wolverine World Wide, Inc.",29.8,34.67,38.05,44.74,44.74,Strong Sell,318906,2449990686,Consumer Non-Durables
+WY,Weyerhaeuser Company,36.26,37.66,37.66,41.68,41.68,Strong Buy,2795573,27187166458,Finance
+WYY,WidePoint Corporation,5.21,6.208,7.03,15.885,325,Sell,19301,47499876,Technology Services
+XAIR,"Beyond Air, Inc.",11.21,12.8737,12.8737,12.8737,45,Buy,449615,268455733,Technology Services
+XENT,"Intersect ENT, Inc.",27.24,27.51,28.17,28.17,42.95,Buy,93206,908350038,Health Technology
+XLRN,Acceleron Pharma Inc.,175,189.99,189.99,189.99,189.99,Buy,1270145,10695251465,Health Technology
+XMTR,"Xometry, Inc.",56.57,70.515,83.21,97.57,97.57,Sell,131824,2508508383,Producer Manufacturing
+XNCR,"Xencor, Inc.",37.2,37.5,37.5,58.345,58.345,Buy,151442,2169649629,Health Technology
+XOG,"Extraction Oil & Gas, Inc.",59.65,61.51,61.51,61.51,61.51,Buy,328789,1547960023,Energy Minerals
+XOM,Exxon Mobil Corporation,62.18,62.695,62.695,64.925,104.76,Strong Buy,22186890,2.63243E+11,Energy Minerals
+XYL,Xylem Inc.,121.47,136.15,138.78,138.78,138.78,Sell,623655,21884399148,Producer Manufacturing
+YALA,Yalla Group Limited,7.31,10.355,17.12,41.35,41.35,Sell,881157,1052129242,Technology Services
+YCBD,"cbdMD, Inc.",1.77,2.42,2.9216,6.83,8.48,Strong Sell,160755,102265445,Consumer Services
+YELP,Yelp Inc.,38.84,41.1,43.28,43.86,101.75,Buy,390253,2857263224,Technology Services
+YETI,"YETI Holdings, Inc.",84.78,102.82,105.62,105.62,105.62,Sell,1210562,7415863127,Producer Manufacturing
+YEXT,"Yext, Inc.",11.38,13.12,14.09,20.23,27.19,Sell,424602,1454877518,Technology Services
+YI,"111, Inc.",5.33,7.46,8.25,45.88,45.88,Strong Sell,371918,441714986,Retail Trade
+YMAB,"Y-mAbs Therapeutics, Inc.",27.62,34.6,39.8199,55.215,55.215,Sell,91040,1203595398,Health Technology
+YNDX,Yandex N.V.,79.63,82.62,82.62,82.62,82.62,Buy,782593,28416150138,Technology Services
+YORW,The York Water Company,45.87,52.95,53.77,53.77,53.77,Neutral,28349,600595469,Utilities
+YOU,"Clear Secure, Inc.",39.72,46.89,65.7,65.7,65.7,Strong Sell,213116,5829725446,Technology Services
+Z,"Zillow Group, Inc.",91.04,97.75,116.79,208.11,208.11,Sell,4258611,23061052985,Technology Services
+ZBH,"Zimmer Biomet Holdings, Inc.",146.65,153.76,165.395,180.36,180.36,Strong Sell,498881,30626458032,Health Technology
+ZBRA,Zebra Technologies Corporation,498.73,588.15,594.77,594.77,594.77,Sell,227931,26633663496,Electronic Technology
+ZEN,"Zendesk, Inc.",112.17,127.28,153.43,166.6,166.6,Sell,849873,13462658208,Technology Services
+ZG,"Zillow Group, Inc.",90.67,97.725,118.31,212.4,212.4,Sell,427422,23061052985,Technology Services
+ZH,Zhihu Inc.,10.4,11.38,12.68,13.8492,13.8492,Strong Buy,2424030,5839655779,Technology Services
+ZI,ZoomInfo Technologies Inc.,62.33,69.72,69.72,69.72,69.72,Sell,1361225,28019897255,Technology Services
+ZIOP,ZIOPHARM Oncology Inc,1.73,2.17,2.6,5.95,14.93,Strong Sell,1490347,372858956,Health Technology
+ZIP,"ZipRecruiter, Inc.",28.39,29.2091,32,32,32,Buy,334350,3267913844,Technology Services
+ZLAB,Zai Lab Limited,102.35,148.14,176.17,193.54,193.54,Strong Sell,340380,9893174392,Health Technology
+ZM,"Zoom Video Communications, Inc.",255.05,306.2634,404.3478,588.84,588.84,Sell,2265010,75782473422,Technology Services
+ZS,"Zscaler, Inc.",266.66,289.03,293.44,293.44,293.44,Buy,1230312,36995336181,Technology Services
+ZTO,ZTO Express (Cayman) Inc.,31.71,32.24,32.24,38.96,38.99,Strong Buy,1664842,25913707983,Transportation
+ZUO,"Zuora, Inc.",16.65,17.67,18.65,18.65,37.78,Neutral,610974,2074589952,Technology Services
+ZVO,Zovio Inc.,2.2,2.5338,3,7.3399,30.6187,Strong Sell,30427,73519080,Consumer Services
+ZY,Zymergen Inc.,11.09,14.43,40.57,52,52,Strong Sell,482810,1135503332,Commercial Services
+ZYXI,"Zynex, Inc.",11.16,13.13,17.89,22.89,77500,Sell,107507,387925961,Health Technology
